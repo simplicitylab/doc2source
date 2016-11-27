@@ -1,4 +1,9 @@
-""" DbdocParser module """
+"""
+    Module for the 'DBDoc' document
+
+    written by Glenn De Backer < glenn at simplicity dot be>
+    License: GPLv2
+"""
 from pyparsing import Word, Literal, Suppress, Group, OneOrMore, Optional, alphanums
 
 class DbdocParser(object):

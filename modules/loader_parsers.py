@@ -1,4 +1,9 @@
-""" Module load parsers """
+"""
+    Module that handles the loading of parsers
+
+    written by Glenn De Backer < glenn at simplicity dot be>
+    License: GPLv2
+"""
 import glob
 import os
 

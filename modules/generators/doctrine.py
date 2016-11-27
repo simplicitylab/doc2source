@@ -1,4 +1,9 @@
-""" Doctrine module """
+"""
+    Module for the doctrine generator
+
+    written by Glenn De Backer < glenn at simplicity dot be>
+    License: GPLv2
+"""
 class DoctrineGenerator(object):
     """Doctrine generator"""
 
