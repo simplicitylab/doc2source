@@ -1,5 +1,5 @@
 """
-    Module for the 'DBDoc' document
+    Module for the 'DBDoc' document parser (using pyparsing)
 
     written by Glenn De Backer < glenn at simplicity dot be>
     License: GPLv2
