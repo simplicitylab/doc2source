@@ -34,8 +34,6 @@ class DbdocParser(object):
         # store final expression
         self.final_expression = entity_structures
 
-    def parse_file(self, filename):
+    def parse(self, string_to_parse):
         """ Parse file """
-        # open file, parse string and return ParseResult
-        content = open(filename, 'r').read()
-        return self.final_expression.parseString(content)
+        return self.final_expression.parseString(string_to_parse)

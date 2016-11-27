@@ -23,7 +23,7 @@ class LoaderParsers(object):
         if not "define_document_grammar" in class_properties_methods:
             return False
 
-        if not "parse_file" in class_properties_methods:
+        if not "parse" in class_properties_methods:
             return False
 
         return True

@@ -8,7 +8,6 @@
 """
 # standard library
 import argparse
-import sys
 
 # doc2source modules
 from modules.loader_generators import LoaderGenerators
@@ -27,16 +26,20 @@ def process_parameters():
     parser = argparse.ArgumentParser()
 
     # add arguments
-    parser.add_argument('--list-parsers', action='store_true', help='lists parsers')
-    parser.add_argument('--list-generators', action='store_true', help='lists generators')
+    parser.add_argument('--list-parsers', action='store_true', help='lists available parsers')
+    parser.add_argument('--list-generators', action='store_true', help='lists available generators')
     parser.add_argument('parser_name', nargs='?', help='name of parser')
     parser.add_argument('generator_name', nargs='?', help='name of generator')
-    parser.add_argument('output_name', nargs='?', help='name of output file')
+    parser.add_argument('output_filename', nargs='?', help='name of output file')
 
     # parse arguments
     args = parser.parse_args()
 
-    return args
+    return args, parser
+
+def read_file(filename):
+    """ Read file """
+    return open(filename, 'r').read()
 
 def main():
     """ Main entry """
@@ -45,7 +48,7 @@ def main():
     loader_parsers, loader_generators = load_parsers_generators()
 
     # process commandline arguments
-    args = process_parameters()
+    args, argument_parser = process_parameters()
 
     # if we need to list things
     if args.list_parsers:
@@ -56,6 +59,13 @@ def main():
         for generator in loader_generators.get_generators_names():
             print "* %s" % generator
 
+    # be sure that everythig is passed to generate "source"
+    if args.parser_name is None \
+    or args.generator_name is None \
+    or args.output_filename is None:
+        argument_parser.print_help()
+    else:
+        pass
 
 if __name__ == "__main__":
     main()

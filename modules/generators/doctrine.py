@@ -26,6 +26,6 @@ class DoctrineGenerator(object):
         """ Get name of generator """
         return "doctrine"
 
-    def generate(self):
+    def generate(self, output_filename):
         """ Generate """
-        print "generate"
+        print "generate file %s" % output_filename
