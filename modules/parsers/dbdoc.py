@@ -36,4 +36,4 @@ class DbdocParser(object):
 
     def parse(self, string_to_parse):
         """ Parse file """
-        return self.final_expression.parseString(string_to_parse)
+        return self.final_expression.scanString(string_to_parse)

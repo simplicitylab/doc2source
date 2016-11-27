@@ -11,13 +11,6 @@ class DoctrineGenerator(object):
         """ Constructor """
         pass
 
-    def is_parser_supported(self, parser_name):
-        """ Checks if parser is supported """
-        if parser_name in self.get_supported_parsers():
-            return True
-        else:
-            return False
-
     def get_supported_parsers(self):
         """ Get list of supported parsers """
         return ['dbdoc']
@@ -26,6 +19,6 @@ class DoctrineGenerator(object):
         """ Get name of generator """
         return "doctrine"
 
-    def generate(self, output_filename):
-        """ Generate """
+    def generate(self, parse_result, output_filename):
+        """ Generate document """
         print "generate file %s" % output_filename
