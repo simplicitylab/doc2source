@@ -60,7 +60,7 @@ def process_parameters():
 
 def read_file(filename):
     """ Read file """
-    return open(filename, 'r').read()
+    return open(filename, "r").read()
 
 def main():
     """ Main entry """

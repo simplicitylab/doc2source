@@ -4,12 +4,15 @@
     written by Glenn De Backer < glenn at simplicity dot be>
     License: GPLv2
 """
+import os
+from ..template_helper import TemplateHelper
+
 class DoctrineGenerator(object):
     """Doctrine generator"""
 
     def __init__(self):
         """ Constructor """
-        pass
+        self.template_helper = TemplateHelper()
 
     def get_supported_parsers(self):
         """ Get list of supported parsers """
@@ -21,4 +24,11 @@ class DoctrineGenerator(object):
 
     def generate(self, parse_result, output_filename):
         """ Generate document """
-        print "generate file %s" % output_filename
+        template_vars_dict = {"table_name" : "tabel name", "entity_name": "TableEntity"}
+        # render template
+        source = self.template_helper.render("doctrine.tpl", template_vars_dict)
+
+        # write to file
+        output_file = open(output_filename, "w")
+        output_file.write(source)
+        output_file.close()
