@@ -1,5 +1,3 @@
-# Database documentation
-
 ## Car
 * name (string)
 * price (int)

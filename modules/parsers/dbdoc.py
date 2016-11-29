@@ -23,17 +23,17 @@ class DbdocParser(object):
         text = OneOrMore(Word(alphanums)).setParseAction(lambda tokens: " ".join(tokens))
 
         # define structural expressions
-        entity_name = (double_hash + text.setResultsName('EntityName'))
-        entity_field_attributes = comma_l + text.setResultsName('EntityFieldAttributes') + comma_r
-        entity_field_name = star + text.setResultsName('EntityFieldName')
-        entity_field = Group(entity_field_name + Optional(entity_field_attributes))
-        entity_fields = Group(OneOrMore(entity_field)).setResultsName('EntityFields')
-        entity_structure = Group(entity_name + entity_fields)
-        entity_structures = OneOrMore(entity_structure)
+        entity_name = double_hash + text.setResultsName("EntityName")
+        entity_field_attributes = comma_l + text.setResultsName("Attributes") + comma_r
+        entity_field_name = star + text.setResultsName('Name')
+        entity_field = Group(entity_field_name + Optional(entity_field_attributes)) \
+        .setResultsName('Field')
+        entity_fields = Group(OneOrMore(entity_field)).setResultsName('Fields')
+        entity_structure = entity_name + entity_fields
 
         # store final expression
-        self.final_expression = entity_structures
+        self.final_expression = entity_structure
 
     def parse(self, string_to_parse):
         """ Parse file """
-        return self.final_expression.scanString(string_to_parse)
+        return self.final_expression.searchString(string_to_parse)

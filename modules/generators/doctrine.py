@@ -24,9 +24,8 @@ class DoctrineGenerator(object):
 
     def generate(self, parse_result, output_filename):
         """ Generate document """
-        template_vars_dict = {"table_name" : "tabel name", "entity_name": "TableEntity"}
         # render template
-        source = self.template_helper.render("doctrine.tpl", template_vars_dict)
+        source = self.template_helper.render("doctrine.tpl", {})
 
         # write to file
         output_file = open(output_filename, "w")

@@ -51,7 +51,7 @@ def process_parameters():
     parser.add_argument('parser_name', nargs='?', help='name of parser')
     parser.add_argument('generator_name', nargs='?', help='name of generator')
     parser.add_argument('input_filename', nargs='?', help='name of file that needs to be parsed')
-    parser.add_argument('output_filename', nargs='?', help='name of output file')
+    parser.add_argument('output_filename', nargs='?', help='name of output file (if supported by generator)')
 
     # parse arguments
     args = parser.parse_args()
@@ -83,8 +83,7 @@ def main():
     # be sure that everythig is passed to generate "source"
     if args.parser_name is None \
     or args.generator_name is None \
-    or args.input_filename is None \
-    or args.output_filename is None:
+    or args.input_filename is None:
         argument_parser.print_help()
     else:
         # get parser and generator, which also validates choices
