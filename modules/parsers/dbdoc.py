@@ -18,13 +18,14 @@ class DbdocParser(object):
         # define symbol expressions
         double_hash = Suppress(Literal("##"))
         star = Suppress(Literal("*"))
-        comma_l = Suppress(Literal("("))
-        comma_r = Suppress(Literal(")"))
+        comma = Suppress(Literal(","))
+        parenthesis_l = Suppress(Literal("("))
+        parenthesis_r = Suppress(Literal(")"))
         text = OneOrMore(Word(alphanums)).setParseAction(lambda tokens: " ".join(tokens))
 
         # define structural expressions
         entity_name = double_hash + text.setResultsName("Name")
-        entity_field_attributes = comma_l + text.setResultsName("Type") + comma_r
+        entity_field_attributes = parenthesis_l + text.setResultsName("Type") + parenthesis_r
         entity_field_name = star + text.setResultsName('Name')
         entity_field = Group(entity_field_name + Optional(entity_field_attributes)) \
         .setResultsName('Field')
