@@ -23,8 +23,8 @@ class DbdocParser(object):
         text = OneOrMore(Word(alphanums)).setParseAction(lambda tokens: " ".join(tokens))
 
         # define structural expressions
-        entity_name = double_hash + text.setResultsName("EntityName")
-        entity_field_attributes = comma_l + text.setResultsName("Attributes") + comma_r
+        entity_name = double_hash + text.setResultsName("Name")
+        entity_field_attributes = comma_l + text.setResultsName("Type") + comma_r
         entity_field_name = star + text.setResultsName('Name')
         entity_field = Group(entity_field_name + Optional(entity_field_attributes)) \
         .setResultsName('Field')
