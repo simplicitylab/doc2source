@@ -20,8 +20,8 @@ class {{ entity_name }}
     {# -#}
     {% for field in fields %}
     /**
-    * @ORM\Column(type="{{ field.type }}")
-    **/
+     * @ORM\Column(type="{{ field.type }}{% for extra in field.extras %}, {{ extra }}{% endfor %}")
+     **/
     private ${{ field.variable_name }}
     {% endfor %}
     {# -#}

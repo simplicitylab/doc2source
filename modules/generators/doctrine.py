@@ -44,11 +44,16 @@ class DoctrineGenerator(object):
 
                 method_name = "".join(name_splitted)
 
+                extras = []
+                for extra in field.Extras:
+                    extras.append(extra)
+
                 fields.append({
                     "name" : field.Name,
                     "variable_name" : variable_name,
                     "type" : field.Type,
-                    "method_name" : method_name
+                    "method_name" : method_name,
+                    "extras" : extras
                     })
             template_vars_dict["fields"] = fields
 
