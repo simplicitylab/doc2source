@@ -8,20 +8,16 @@
 import os
 
 # jinja2
-from jinja2 import Template
+from jinja2 import Environment, FileSystemLoader
 
 class TemplateHelper(object):
     """ Template class  """
-
-    def get_template_path(self, template_name):
-        """ Get template path """
-        return os.path.join(os.path.dirname(__file__), "../templates/%s" % template_name)
-
-    def load_template(self, template_name):
-        """ Load template """
-        return open(self.get_template_path(template_name), "r").read()
+    def __init__(self):
+        """ Default constructor """
+        template_dir = os.path.join(os.path.dirname(__file__), "../templates/")
+        self.j2_env = Environment(loader=FileSystemLoader(template_dir), trim_blocks=True, lstrip_blocks=True)
 
     def render(self, template_name, template_vars_dict):
         """ Render template """
-        template = Template(self.load_template(template_name))
-        return template.render(template_vars_dict)
+        return self.j2_env.get_template(template_name).render(template_vars_dict)
+

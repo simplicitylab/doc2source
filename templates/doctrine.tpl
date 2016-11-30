@@ -17,14 +17,22 @@ class {{ entity_name }}
      * @ORM\GeneratedValue(strategy="AUTO")
      */
     private $id;
-    {# -#}
-    {% for field in fields %}
+
+{% for field in fields %}
+    {% if not field.relationship %}
     /**
-     * @ORM\Column(type="{{ field.type }}{% for extra in field.extras %}, {{ extra }}{% endfor %}")
+     * @ORM\Column(type="{{ field.type }}"{% for extra in field.extras %}, {{ extra }}{% endfor %})
      **/
-    private ${{ field.variable_name }}
-    {% endfor %}
-    {# -#}
+    private ${{ field.variable_name }};
+
+    {% else %}
+    /**
+     * @OneToMany(targetEntity="{{ field.relationship.target }}", mappedBy="{{ table_name }}")
+     */
+    private ${{ field.variable_name }};
+
+    {% endif %}
+{% endfor %}
     /**
      * Set id
      **/
@@ -40,22 +48,40 @@ class {{ entity_name }}
     {
         return $this->id;
     }
-    {# -#}
-    {% for field in fields %}
+
+{% for field in fields %}
+    {% if  not field.relationship %}
     /**
      * Set {{ field.name }}
      **/
     function set{{ field.method_name}}(${{field.variable_name}}){
         $this->{{field.variable_name}} = ${{field.variable_name}};
     }
-
+    
     /**
      * Get {{ field.name }}
      **/
     function get{{ field.method_name}}(){
         return $this->{{field.variable_name}};
-    }    
-    {% endfor %}
+    }
+
+    {% else %}
+    /**
+     * Set {{ field.name }}
+     **/
+    function set{{ field.method_name}}({{field.relationship.target}} ${{field.variable_name}}){
+        $this->{{field.variable_name}} = ${{field.variable_name}};
+    }
+    
+    /**
+     * Get {{ field.name }}
+     **/
+    function get{{ field.method_name}}(){
+        return $this->{{field.variable_name}};
+    }
+
+    {% endif %}
+{% endfor %}
 }
 
 ?>

@@ -23,6 +23,7 @@ class DbdocParser(object):
         comma = Literal(',')
         equal = Literal('=')
         quote = Literal('"')
+        arrow_right = Literal('->')
 
         # define text structures
         text = OneOrMore(Word(alphanums)).setParseAction(lambda tokens: " ".join(tokens))
@@ -35,8 +36,14 @@ class DbdocParser(object):
         Optional(OneOrMore(Suppress(comma) + (parameter|text).setResultsName('Extra'))) \
         .setResultsName('Extras') + Suppress(parenthesis_r)
 
+        entity_field_relationship = Group(arrow_right.setResultsName('Direction') + \
+        text.setResultsName('Target')).setResultsName('Relationship')
+
         entity_field_name = star + text.setResultsName('Name')
-        entity_field = Group(entity_field_name + Optional(entity_field_attributes)).setResultsName('Field')
+
+        entity_field = Group(entity_field_name + Optional(entity_field_attributes| \
+        entity_field_relationship)).setResultsName('Field')
+
         entity_fields = Group(OneOrMore(entity_field)).setResultsName('Fields')
         entity_structure = entity_name + entity_fields
 
