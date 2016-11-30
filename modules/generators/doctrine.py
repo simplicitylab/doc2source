@@ -75,19 +75,14 @@ class DoctrineGenerator(object):
                     relationship_type = ""
 
                     if field.Relationship.Direction == "->":
-                        relationship_type = "ManyToOne"
+                        relationship_type = "OneToMany"
 
                     # store relationship
                     relationship["type"] = relationship_type
-                    relationship["sourceName"] = self.get_variable_name(entity.Name)
-                    relationship["mappedBy"] = self.get_entity_name(entity.Name)
+                    relationship["mappedBy"] = self.get_variable_name(entity.Name)
+                    relationship["sourceEntity"] = self.get_entity_name(entity.Name)
                     relationship["targetEntity"] = self.get_entity_name(field.Relationship.Target)
                     known_relationships.append(relationship)
-                else:
-                    # check if a reverse relationship exists
-                    for known_relationship in known_relationships:
-                        if known_relationship['targetEntity'] == entity.Name:
-                            pass
 
                 fields.append({
                     "name" : field.Name,

@@ -26,13 +26,23 @@ class {{ entity_name }}
     private ${{ field.variable_name }};
 
     {% else %}
+        {% if field.relationship.type == "OneToMany" %}
     /**
      * @OneToMany(targetEntity="{{ field.relationship.targetEntity }}", mappedBy="{{ field.relationship.mappedBy }}")
      */
     private ${{ field.variable_name }};
 
+        {% endif %}
     {% endif %}
 {% endfor %}
+    /**
+     * Constructor
+     **/
+    public function __construct()
+    {
+
+    }
+
     /**
      * Set id
      **/
@@ -69,7 +79,7 @@ class {{ entity_name }}
     /**
      * Set {{ field.name }}
      **/
-    function set{{ field.method_name}}({{field.relationship.target}} ${{field.variable_name}}){
+    function set{{ field.method_name}}({{field.relationship.targetEntity}} ${{field.variable_name}}){
         $this->{{field.variable_name}} = ${{field.variable_name}};
     }
     
