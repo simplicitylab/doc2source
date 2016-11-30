@@ -32,6 +32,13 @@ class {{ entity_name }}
      */
     private ${{ field.variable_name }};
 
+        {% elif field.relationship.type == "ManyToMany" %}
+    /**
+     * @ORM\ManyToMany(targetEntity="{{ field.relationship.targetEntity }}", inversedBy="{{field.relationship.inversedBy|pluralize}}")
+     * @ORM\JoinTable(name="{{field.relationship.inversedBy|pluralize}}_{{field.relationship.source|pluralize}}")
+     */   
+    private ${{ field.variable_name }};  
+
         {% endif %}
     {% endif %}
 {% endfor %}
@@ -40,7 +47,13 @@ class {{ entity_name }}
      **/
     public function __construct()
     {
-
+{% for field in fields %}
+    {% if field.relationship %}
+        {% if field.relationship.type == "ManyToMany" %}
+        $this->{{field.variable_name}} = new \Doctrine\Common\Collections\ArrayCollection();
+        {% endif %}
+    {% endif %}
+{% endfor %}
     }
 
     /**
@@ -76,6 +89,8 @@ class {{ entity_name }}
     }
 
     {% else %}
+        {% if field.relationship.type == "OneToMany" %}
+
     /**
      * Set {{ field.name }}
      **/
@@ -90,6 +105,22 @@ class {{ entity_name }}
         return $this->{{field.variable_name}};
     }
 
+        {% elif field.relationship.type == "ManyToMany" %}
+    /**
+     * Add {{ field.name }}
+     **/
+    function add{{ field.method_name}}({{field.relationship.targetEntity}} ${{field.variable_name}}){
+        $this->{{field.variable_name}} = ${{field.variable_name}};
+    }
+
+    /**
+     * Get {{ field.name }}
+     **/
+    function get{{ field.method_name}}(){
+        return $this->{{field.variable_name}};
+    }
+
+        {% endif %}
     {% endif %}
 {% endfor %}
 }

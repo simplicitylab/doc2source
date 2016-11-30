@@ -74,15 +74,23 @@ class DoctrineGenerator(object):
                     # process relationship
                     relationship_type = ""
 
-                    if field.Relationship.Direction == "->":
-                        relationship_type = "OneToMany"
+                    if field.Relationship.Type == "->":
+                        # store relationship
+                        relationship["type"] = "OneToMany"
+                        relationship["mappedBy"] = self.get_variable_name(entity.Name)
+                        relationship["sourceEntity"] = self.get_entity_name(entity.Name)
+                        relationship["targetEntity"] = self.get_entity_name(\
+                        field.Relationship.Target)
 
-                    # store relationship
-                    relationship["type"] = relationship_type
-                    relationship["mappedBy"] = self.get_variable_name(entity.Name)
-                    relationship["sourceEntity"] = self.get_entity_name(entity.Name)
-                    relationship["targetEntity"] = self.get_entity_name(field.Relationship.Target)
-                    known_relationships.append(relationship)
+                        known_relationships.append(relationship)
+
+                    elif field.Relationship.Type == "<->":
+                        relationship["type"] = "ManyToMany"
+                        relationship["targetEntity"] = self.get_entity_name(\
+                        field.Relationship.Target)
+                        relationship["source"] = self.get_variable_name(field.Relationship.Target)
+                        relationship["inversedBy"] = self.get_variable_name(entity.Name)
+
 
                 fields.append({
                     "name" : field.Name,
