@@ -27,7 +27,7 @@ class {{ entity_name }}
 
     {% else %}
     /**
-     * @OneToMany(targetEntity="{{ field.relationship.target }}", mappedBy="{{ table_name }}")
+     * @OneToMany(targetEntity="{{ field.relationship.targetEntity }}", mappedBy="{{ field.relationship.mappedBy }}")
      */
     private ${{ field.variable_name }};
 
