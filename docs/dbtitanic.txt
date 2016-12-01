@@ -1,0 +1,1313 @@
+"Allen, Elisabeth Walton"	1st	29	female	1
+"Allison, Helen Loraine"	1st	2	female	0
+"Allison, Hudson Joshua Creighton"	1st	30	male	0
+"Allison, Hudson JC (Bessie Waldo Daniels)"	1st	25	female	0
+"Allison, Master Hudson Trevor"	1st	0.92	male	1
+"Anderson, Harry"	1st	47	male	1
+"Andrews, Kornelia Theodosia"	1st	63	female	1
+"Andrews, Thomas, jr"	1st	39	male	0
+"Appleton, Edward Dale (Charlotte Lamson)"	1st	58	female	1
+"Artagaveytia, Ramon"	1st	71	male	0
+"Astor, Colonel John Jacob"	1st	47	male	0
+"Astor, John Jacob (Madeleine Talmadge Force)"	1st	19	female	1
+"Aubert, Leontine Pauline"	1st	NA	female	1
+"Barkworth, Algernon H"	1st	NA	male	1
+"Baumann, John D"	1st	NA	male	0
+"Baxter, James (Helene DeLaudeniere Chaput)"	1st	50	female	1
+"Baxter, Quigg Edmond"	1st	24	male	0
+"Beattie, Thomson"	1st	36	male	0
+"Beckwith, Richard Leonard"	1st	37	male	1
+"Beckwith, Richard Leonard (Sallie Monypeny)"	1st	47	female	1
+"Behr, Karl Howell"	1st	26	male	1
+"Birnbaum, Jakob"	1st	25	male	0
+"Bishop, Dickinson H"	1st	25	male	1
+"Bishop, Dickinson H (Helen Walton)"	1st	19	female	1
+"Bjornstrm-Steffansson, Mauritz Hakan"	1st	28	male	1
+"Blackwell, Stephen Weart"	1st	45	male	0
+"Blank, Henry"	1st	39	male	1
+"Bonnell, Caroline"	1st	30	female	1
+"Bonnell, Elizabeth"	1st	58	female	1
+"Borebank, John James"	1st	NA	male	0
+"Bowen, Grace Scott"	1st	45	female	1
+"Bowerman, Elsie Edith"	1st	22	female	1
+"Bradley, George"	1st	NA	male	1
+"Brady, John Bertram"	1st	41	male	0
+"Brandeis, Emil"	1st	48	male	0
+"Brewe, Dr Arthur Jackson"	1st	NA	male	0
+"Brown, James Joseph (Margaret Molly"" Tobin)"""	1st	44	female	1
+"Brown, John Murray (Caroline Lane Lamson)"	1st	59	female	1
+"Bucknell, William Robert (Emma Eliza Ward)"	1st	60	female	1
+"Butt, Major Archibald Willingham"	1st	45	male	0
+"Calderhead, Edward P"	1st	NA	male	1
+"Candee, Edward (Helen Churchill Hungerford)"	1st	53	female	1
+"Cardeza, James Warburton Martinez (Charlotte Wardle Drake)"	1st	58	female	1
+"Cardeza, Thomas Drake Martinez"	1st	36	male	1
+"Carlsson, Frans Olof"	1st	33	male	0
+"Carrau, Francisco M"	1st	NA	male	0
+"Carrau, Jose Pedro"	1st	NA	male	0
+"Carter, William Ernest"	1st	36	male	1
+"Carter, William Ernest (Lucile Polk)"	1st	36	female	1
+"Carter, Lucile Polk"	1st	14	female	1
+"Carter, Master William T II"	1st	11	male	1
+"Case, Howard Brown"	1st	49	male	0
+"Cassebeer, Henry Arthur jr (Genevieve Fosdick)"	1st	NA	female	1
+"Cavendish, Tyrell William"	1st	36	male	0
+"Cavendish, Tyrell William Julia Florence Siegel"	1st	NA	female	1
+"Chaffee, Herbert Fuller"	1st	46	male	0
+"Chaffee, Herbert Fuller (Carrie Constance Toogood)"	1st	47	female	1
+"Chambers, Norman Campbell"	1st	27	male	1
+"Chambers, Norman Campbell (Bertha Griggs)"	1st	31	female	1
+"Cherry, Gladys"	1st	NA	female	1
+"Chevre, Paul"	1st	NA	male	1
+"Chibnall (Bowerman), Edith Martha"	1st	NA	female	1
+"Chisholm, Roderick Robert"	1st	NA	male	0
+"Clark, Walter Miller"	1st	27	male	0
+"Clark, Walter Miller (Virginia McDowell)"	1st	26	female	1
+"Clifford, George Quincy"	1st	NA	male	0
+"Colley, Edward Pomeroy"	1st	NA	male	0
+"Compton, Alexander Taylor (Mary Eliza Ingersoll)"	1st	64	female	1
+"Compton, Alexander Taylor, Jr"	1st	37	male	0
+"Compton, Sara Rebecca"	1st	39	female	1
+"Cornell, Robert Clifford (Malvina Helen Lamson)"	1st	55	female	1
+"Crafton, John Bertram"	1st	NA	male	0
+"Crosby, Captain Edward Gifford"	1st	70	male	0
+"Crosby, Edward Gifford (Catherine Elizabeth Halstead)"	1st	69	female	1
+"Crosby, Harriet R"	1st	36	female	1
+"Cumings, John Bradley"	1st	39	male	0
+"Cumings, John Bradley (Florence Briggs Thayer)"	1st	38	female	1
+"Daly, Peter Denis "	1st	NA	male	1
+"Daniel, Robert Williams"	1st	27	male	1
+"Davidson, Thornton"	1st	31	male	0
+"Davidson, Thornton (Orian Hays)"	1st	27	female	1
+"de Villiers, Madame Berthe"	1st	NA	female	1
+"Dick, Albert Adrian"	1st	31	male	1
+"Dick, Albert Adrian Vera Gillespie"	1st	17	female	1
+"Dodge, Dr Washington"	1st	NA	male	1
+"Dodge, Washington (Ruth Vidaver)"	1st	NA	female	1
+"Dodge, Master Washington"	1st	4	male	1
+"Douglas, Frederick Charles (Suzette Baxter)"	1st	27	female	1
+"Douglas, Walter Donald"	1st	50	male	0
+"Douglas, Walter Donald (Mahala Dutton)"	1st	48	female	1
+"Duff Gordon, Sir Cosmo Edmund"	1st	49	male	1
+"Duff Gordon, Lady (Lucille Wallace Sutherland)"	1st	48	female	1
+"Dulles, William Crothers"	1st	39	male	0
+"Earnshaw, Boulton (Olive Potter)"	1st	23	female	1
+"Eustis, Elizabeth Mussey"	1st	53	female	1
+"Evans, Edith Corse"	1st	36	female	0
+"Flegenheim, Alfred (Antoinette)"	1st	NA	female	1
+"Flynn, John Irving"	1st	NA	male	1
+"Foreman, Benjamin Laventall"	1st	30	male	0
+"Fortune, Alice Elizabeth"	1st	24	female	1
+"Fortune, Charles Alexander"	1st	19	male	0
+"Fortune, Ethel Flora"	1st	28	female	1
+"Fortune, Mabel"	1st	23	female	1
+"Fortune, Mark"	1st	64	male	0
+"Fortune, Mark (Mary McDougald)"	1st	60	female	1
+"Franklin, Thomas Parham"	1st	NA	male	0
+"Frauenthal, Dr Henry William"	1st	49	male	1
+"Frauenthal, Henry William (Clara Heinsheimer)"	1st	NA	female	1
+"Frauenthal, Isaac Gerald"	1st	44	male	1
+"Frolicher, Marguerite"	1st	22	female	1
+"Frolicher-Stehli, Maxmillian"	1st	60	male	1
+"Frolicher-Stehli, Maxmillian (Margaretha Emerentia Stehli)"	1st	48	female	1
+"Futrelle, Jacques"	1st	37	male	0
+"Futrelle, Jacques (May Peel)"	1st	35	female	1
+"Gee, Arthur H"	1st	47	male	0
+"Gibson, Dorothy"	1st	22	female	1
+"Gibson, Leonard (Pauline C Boeson)"	1st	45	female	1
+"Goldenberg, Samuel L"	1st	49	male	1
+"Goldenberg, Samuel L (Edwiga Grabowsko)"	1st	NA	female	1
+"Goldschmidt, George B"	1st	71	male	0
+"Gracie, Colonel Archibald IV"	1st	54	male	1
+"Graham, George Edward"	1st	38	male	0
+"Graham, Margaret Edith"	1st	19	female	1
+"Graham, William Thompson (Edith Junkins)"	1st	58	female	1
+"Greenfield, Leo David (Blanche Strouse)"	1st	45	female	1
+"Greenfield, William Bertram"	1st	23	male	1
+"Guggenheim, Benjamin"	1st	46	male	0
+"Harder, George Achilles"	1st	25	male	1
+"Harder, George Achilles (Dorothy Annan)"	1st	21	female	1
+"Harper, Henry Sleeper"	1st	48	male	1
+"Harper, Henry Sleeper (Myna Haxtun)"	1st	49	female	1
+"Harris, Henry Birkhardt"	1st	45	male	0
+"Harris, Henry Birkhardt (Irene Wallach)"	1st	36	female	1
+"Hawksford, Walter James"	1st	NA	male	1
+"Hays, Charles Melville"	1st	55	male	0
+"Hays, Charles Melville (Clara Jennings Gregg)"	1st	52	female	1
+"Hays, Margaret Bechstein"	1st	24	female	1
+"Head, Christopher"	1st	NA	male	0
+"Hilliard, Herbert Henry"	1st	NA	male	0
+"Hipkins, William Edward"	1st	NA	male	0
+"Hippach, Jean Gertrude"	1st	16	female	1
+"Hippach, Louis Albert (Ida Sophia Fischer)"	1st	44	female	1
+"Hogeboom, John C (Anna Andrews)"	1st	51	female	1
+"Holverson, Alexander Oskar"	1st	42	male	0
+"Holverson, Alexander Oskar (Mary Aline Towner)"	1st	35	female	1
+"Homer, Harry"	1st	35	male	1
+"Hoyt, Frederick Maxfield"	1st	38	male	1
+"Hoyt, Frederick Maxfield (Jane Anne Forby)"	1st	35	female	1
+"Hoyt, William F"	1st	NA	male	0
+"Isham, Anne Elizabeth"	1st	50	female	0
+"Ismay, Joseph Bruce"	1st	49	male	1
+"Jones, Charles Cresson"	1st	46	male	0
+"Julian, Henry Forbes"	1st	NA	male	0
+"Kent, Edward Austin"	1st	58	male	0
+"Kenyon, Frederick R"	1st	41	male	0
+"Kenyon, Frederick R (Marion)"	1st	NA	female	1
+"Kimball, Edwin Nelson Jr"	1st	42	male	1
+"Kimball, Edwin Nelson Jr (Gertrude Parsons)"	1st	40	female	1
+"Klaber, Herman"	1st	NA	male	0
+"Leader, Dr Alice Farnham"	1st	NA	female	1
+"Lewy, Ervin G"	1st	NA	male	0
+"Lindeberg-Lind, Erik Gustaf"	1st	42	male	0
+"Lindstrom, Carl Johan (Sigrid Posse)"	1st	55	female	1
+"Lines, Ernest H (Elizabeth Lindsey James)"	1st	50	female	1
+"Lines, Mary Conover"	1st	16	female	1
+"Lingrey, Edward"	1st	NA	male	0
+"Long, Milton Clyde"	1st	29	male	0
+"Longley, Gretchen Fiske"	1st	21	female	1
+"Loring, Joseph Holland"	1st	30	male	0
+"Madill, Georgette Alexandra"	1st	15	female	1
+"Maguire, John Edward"	1st	30	male	0
+"Marechal, Pierre"	1st	NA	male	1
+"Marvin, Daniel Warner"	1st	NA	male	0
+"Marvin, Daniel Warner (Mary Graham Carmichael Farquarson)"	1st	NA	female	1
+"McCaffry, Thomas Francis"	1st	46	male	0
+"McCarthy, Timothy J"	1st	54	male	0
+"McGough, James R"	1st	36	male	1
+"Meyer, Edgar Joseph"	1st	28	male	0
+"Meyer, Edgar Joseph (Leila Saks)"	1st	NA	female	1
+"Millet, Francis Davis"	1st	65	male	0
+"Minahan, Daisy E"	1st	33	female	1
+"Minahan, Dr William Edward"	1st	44	male	0
+"Minahan, William Edward (Lillian E Thorpe)"	1st	37	female	1
+"Mock, Philip E"	1st	NA	male	1
+"Molson, Harry Markland"	1st	55	male	0
+"Moore, Clarence Bloomfield"	1st	47	male	0
+"Natsch, Charles H"	1st	36	male	0
+"Newell, Arthur Webster"	1st	58	male	0
+"Newell, Madeleine"	1st	31	female	1
+"Newell, Marjorie"	1st	23	female	1
+"Newsom, Helen Monypeny"	1st	19	female	1
+"Nicholson, Arthur Ernest"	1st	64	male	0
+"Omont, A Fernand"	1st	NA	male	1
+"Ostby, Engelhart Cornelius"	1st	64	male	0
+"Ostby, Helen Raghnild"	1st	22	female	1
+"Ovies y Rodriguez, Servando"	1st	28	male	0
+"Parr, William Henry Marsh"	1st	NA	male	0
+"Partner, Austin"	1st	NA	male	0
+"Payne, Vivian Ponsonby"	1st	22	male	0
+"Pears, Thomas"	1st	NA	male	0
+"Pears, Thomas (Edith)"	1st	NA	female	1
+"Penasco, Victor de Satode"	1st	18	male	0
+"Penasco, Victor de Satode (Josefa de Soto)"	1st	17	female	1
+"Peuchen, Major Arthur Godfrey"	1st	52	male	1
+"Porter, Walter Chamberlain"	1st	46	male	0
+"Potter, Thomas, Jr (Lily Alexenia Wilson)"	1st	56	female	1
+"Reuchlin, Jonkheer John George"	1st	NA	male	0
+"Rheims, George Lucien"	1st	NA	male	1
+"Robert, Edward Scott (Elisabeth Walton McMillan)"	1st	43	female	1
+"Roebling, Washington Augustus 2nd"	1st	31	male	0
+"Romaine, Charles Hallace"	1st	NA	male	1
+"Rood, Hugh R"	1st	NA	male	0
+"Rosenbaum (Russell), Edith Louise"	1st	33	female	1
+"Ross, John Hugo"	1st	NA	male	0
+"Rothes, the Countess of (Noel Lucy Martha Dyer-Edwardes)"	1st	27	female	1
+"Rothschild, Martin"	1st	55	male	0
+"Rothschild, Martin (Elizabeth L Barrett)"	1st	54	female	1
+"Rowe, Alfred G"	1st	NA	male	0
+"Ryerson, Arthur Larned"	1st	61	male	0
+"Ryerson, Arthur Larned (Emily Maria Borie)"	1st	48	female	1
+"Ryerson, Emily Borie"	1st	18	female	1
+"Ryerson, Master John Borie"	1st	13	male	1
+"Ryerson, Susan (Suzette) Parker"	1st	21	female	1
+"Saalfeld, Adolphe"	1st	NA	male	1
+"Salomon, Abraham L"	1st	NA	male	1
+"Schabert, Paul (Emma Mock)"	1st	NA	female	1
+"Seward, Frederic Kimber"	1st	34	male	1
+"Shutes, Elizabeth W"	1st	40	female	1
+"Silverthorne, Spencer Victor"	1st	36	male	1
+"Silvey, William Baird"	1st	50	male	0
+"Silvey, William Baird (Alice Munger)"	1st	39	female	1
+"Simonius-Blumer, Col Alfons"	1st	56	male	1
+"Sloper, William Thompson"	1st	28	male	1
+"Smart, John Montgomery"	1st	56	male	0
+"Smith, James Clinch"	1st	56	male	0
+"Smith, Lucien Philip"	1st	24	male	0
+"Smith, Lucien Philip (Mary Eloise Hughes"	1st	18	female	1
+"Smith, Richard William"	1st	NA	male	0
+"Snyder, John Pillsbury"	1st	24	male	1
+"Snyder, John Pillsbury (Nelle Stevenson)"	1st	23	female	1
+"Spedden, Frederick Oakley"	1st	45	male	1
+"Spedden, Frederick Oakley (Margaretta Corning Stone)"	1st	40	female	1
+"Spedden, Master Robert Douglas"	1st	6	male	1
+"Spencer, William Augustus"	1st	57	male	0
+"Spencer, William Augustus (Marie Eugenie)"	1st	NA	female	1
+"Staehlin, Dr Max"	1st	32	male	1
+"Stead, William Thomas"	1st	62	male	0
+"Stengel, Charles Emil Henry"	1st	54	male	1
+"Stengel, Charles Emil Henry (Annie May Morris)"	1st	43	female	1
+"Stephenson, Walter Bertram (Martha Eustis)"	1st	52	female	1
+"Stewart, Albert A"	1st	NA	male	0
+"Stone, George Nelson (Martha E)"	1st	62	female	1
+"Straus, Isidor"	1st	67	male	0
+"Straus, Isidor (Ida Blun)"	1st	63	female	0
+"Sutton, Frederick"	1st	61	male	0
+"Swift, Frederick Joel (Margaret Welles Barron)"	1st	46	female	1
+"Taussig, Emil"	1st	52	male	0
+"Taussig, Emil (Tillie Mandelbaum)"	1st	39	female	1
+"Taussig, Ruth"	1st	18	female	1
+"Taylor, Elmer Zebley"	1st	48	male	1
+"Taylor, Elmer Zebley (Juliet Cummins Wright)"	1st	NA	female	1
+"Thayer, John Borland"	1st	49	male	0
+"Thayer, John Borland (Marian Longstreth Morris)"	1st	39	female	1
+"Thayer, John Borland, jr"	1st	17	male	1
+"Thorne, George (alias of: George Rosenshine)"	1st	46	male	0
+"Thorne, Gertrude Maybelle"	1st	NA	female	1
+"Tucker, Gilbert Milligan, jr"	1st	31	male	1
+"Uruchurtu, Manuel E"	1st	NA	male	0
+"Van Derhoef, Wyckoff"	1st	61	male	0
+"Walker, William Anderson"	1st	47	male	0
+"Warren, Frank Manley"	1st	64	male	0
+"Warren, Frank Manley (Anna S Atkinson)"	1st	60	female	1
+"Weir, Col John"	1st	60	male	0
+"White, J Stuart (Ella Holmes)"	1st	55	female	1
+"White, Percival Wayland"	1st	54	male	0
+"White, Richard Frasar"	1st	21	male	0
+"Wick, George Dennick"	1st	57	male	0
+"Wick, George Dennick (Martha Hitchcock)"	1st	45	female	1
+"Wick, Mary Natalie"	1st	31	female	1
+"Widener, George Dunton"	1st	50	male	0
+"Widener, George Dunton (Eleanor Elkins)"	1st	50	female	1
+"Widener, Harry Elkins"	1st	27	male	0
+"Willard, Constance"	1st	20	female	1
+"Williams, Charles Duane"	1st	51	male	0
+"Williams, Fletcher Lambert"	1st	NA	male	0
+"Williams, Richard Norris II"	1st	21	male	1
+"Woolner, Hugh"	1st	NA	male	1
+"Wright, George"	1st	NA	male	0
+"Young, Marie Grice"	1st	36	female	1
+"Barber, Ms "	1st	NA	female	1
+"Bazzani, Ms Albina"	1st	NA	female	1
+"Bidois, Rosalie"	1st	NA	female	1
+"Bird, Ms Ellen"	1st	NA	female	1
+"Bissetti, Ms Amelia"	1st	NA	female	1
+"Burns, Ms Elizabeth Margaret"	1st	NA	female	1
+"Chaudanson, Ms 	Victorine"	1st	NA	female	1
+"Cleaver, Ms Alice"	1st	NA	female	1
+"Daniels, Ms Sarah"	1st	NA	female	1
+"Endres, Caroline Louise"	1st	NA	female	1
+"Farthing, John"	1st	NA	male	0
+"Fleming, Ms Margaret"	1st	NA	female	0
+"Francatelli, Ms Laura Mabel"	1st	NA	female	1
+"Fry, Richard"	1st	NA	male	0
+"Geiger, Emily "	1st	NA	female	1
+"Giglio, Victor"	1st	NA	male	0
+"Harrington, Charles"	1st	NA	male	0
+"Harrison, William 	Henry"	1st	40	male	0
+"Hassah, Hamad"	1st	NA	male	0
+"Icabad (Icabod), Ms"	1st	NA	female	1
+"Keeping, Edwin"	1st	32	male	0
+"Kenchen, Ms Amelia"	1st	NA	female	1
+"LeRoy, Berthe"	1st	NA	female	1
+"Lesneur, Gustave"	1st	NA	male	0
+"Maloney, Ms"	1st	NA	female	1
+"Oliva, Mlle"	1st	NA	female	0
+"Pericault, Ms"	1st	NA	female	1
+"Ringhini, Sante"	1st	33	male	0
+"Robbins, Victor"	1st	NA	male	0
+"Segesser, Mlle Emma"	1st	NA	female	1
+"Seredeca, Ms"	1st	NA	female	0
+"Ward, Ms Anna"	1st	NA	female	0
+"Wilson, Ms Helen"	1st	NA	female	1
+"Abelson, Samuel"	2nd	30	male	0
+"Abelson, Samuel (Anna)"	2nd	28	female	1
+"Andrew, Edgar Samuel"	2nd	18	male	0
+"Andrew, Frank"	2nd	NA	male	0
+"Angle, William A"	2nd	34	male	0
+"Angle, William A (Florence)"	2nd	32	female	1
+"Ashby, John"	2nd	57	male	0
+"Bailey, Percy Andrew"	2nd	18	male	0
+"Baimbrigge, Charles R"	2nd	23	male	0
+"Balls, Ada E Hall"	2nd	36	female	1
+"Banfield, Frederick J"	2nd	28	male	0
+"Bateman, Rev Robert James"	2nd	51	male	0
+"Beane, Edward"	2nd	32	male	1
+"Beane, Edward (Ethel Clarke)"	2nd	19	female	1
+"Beauchamp, Henry James"	2nd	28	male	0
+"Becker, Allen Oliver (Nellie E Baumgardner)"	2nd	36	female	1
+"Becker, Marion Louise"	2nd	4	female	1
+"Becker, Master Richard F"	2nd	1	male	1
+"Becker, Ruth Elizabeth"	2nd	12	female	1
+"Beesley, Lawrence"	2nd	34	male	1
+"Bentham, Lilian W"	2nd	19	female	1
+"Berriman, William S"	2nd	23	male	0
+"Botsford, William Hull"	2nd	26	male	0
+"Bowenur, Solomon"	2nd	NA	male	0
+"Bracken, James H"	2nd	27	male	0
+"Brown, Edith E"	2nd	15	female	1
+"Brown, Thomas William Solomon"	2nd	45	male	0
+"Brown, Thomas William Solomon (Elizabeth C)"	2nd	40	female	1
+"Bryhl, Dagmar"	2nd	20	female	1
+"Bryhl, Kurt Arnold Gottfrid"	2nd	25	male	0
+"Buss, Kate"	2nd	36	female	1
+"Butler, Reginald Fenton"	2nd	25	male	0
+"Byles, Rev Thomas Roussel D"	2nd	NA	male	0
+"Bystrom, Carolina"	2nd	42	female	1
+"Caldwell, Albert Francis"	2nd	26	male	1
+"Caldwell, Albert Francis (Sylvia Mae Harbaugh)"	2nd	26	female	1
+"Caldwell, Master Alden Gates"	2nd	0.83	male	1
+"Cameron, Clear"	2nd	31	female	1
+"Campbell, William"	2nd	NA	male	0
+"Carbines, William"	2nd	19	male	0
+"Carter, Rev Ernest Courtenay"	2nd	54	male	0
+"Carter, Ernest Courtenay (Lillian Hughes)"	2nd	44	female	0
+"Chapman, Charles Henry"	2nd	52	male	0
+"Chapman, John Henry"	2nd	30	male	0
+"Chapman, John Henry (Elizabeth Lawry)"	2nd	30	female	0
+"Christy, Alice Frances"	2nd	NA	female	1
+"Christy, Julie"	2nd	NA	female	1
+"Clarke, Charles V"	2nd	29	male	0
+"Clarke, Charles V (Ada Maria)"	2nd	NA	female	1
+"Coleridge, Reginald Charles"	2nd	29	male	0
+"Collander, Erik"	2nd	27	male	0
+"Collett, Sidney C Stuart"	2nd	24	male	1
+"Collyer, Harvey"	2nd	35	male	0
+"Collyer, Harvey (Charlotte Tate)"	2nd	31	female	1
+"Collyer, Marjorie"	2nd	8	female	1
+"Cook, Selena Rogers"	2nd	22	female	0
+"Corbett, Walter H (Irene Colvin)"	2nd	30	female	0
+"Corey, Percy C (Mary Phyllis Elizabeth Miller)"	2nd	NA	female	0
+"Cotterill, Harry"	2nd	20	male	0
+"Cunningham, Alfred Fleming"	2nd	NA	male	0
+"Davies, Charles Henry"	2nd	21	male	0
+"Davis, Agnes"	2nd	49	female	1
+"Davis, Master John Morgan"	2nd	8	male	1
+"Davis, Mary"	2nd	28	female	1
+"Deacon, Percy"	2nd	18	male	0
+"de Brito, Jose Joaquim"	2nd	NA	male	0
+"del Carlo, Sebastiano"	2nd	28	male	0
+"del Carlo, Sebastiano (Argenia Genovese)"	2nd	22	female	1
+"Denbury, Herbert"	2nd	25	male	0
+"Dibden, William"	2nd	18	male	0
+"Doling, Ada"	2nd	32	female	1
+"Doling, Elsie"	2nd	18	female	1
+"Downton (?Douton), William James"	2nd	NA	male	0
+"Drew, James Vivian"	2nd	42	male	0
+"Drew, James Vivian (Lulu Thorne Christian)"	2nd	34	female	1
+"Drew, Master Marshall Brines"	2nd	8	male	1
+"Duran y More, Asuncion"	2nd	NA	female	1
+"Duran y More, Florentina"	2nd	NA	female	1
+"Eitemiller, George Floyd"	2nd	23	male	0
+"Enander, Ingvar"	2nd	21	male	0
+"Fahlstrom, Arne Jonas"	2nd	19	male	0
+"Faunthorpe, Harry"	2nd	NA	male	0
+"Faunthorpe, Lizzie (see Wilkinson, E)"	2nd	NA	female	1
+"Fillbrook, Charles"	2nd	NA	male	0
+"Fox, Stanley H"	2nd	38	male	0
+"Frost, Anthony (Archie) W"	2nd	NA	male	0
+"Funk, Annie C"	2nd	38	female	0
+"Fynney, Joseph J"	2nd	35	male	0
+"Gale, Harry"	2nd	35	male	0
+"Gale, Shadrach"	2nd	38	male	0
+"Garside, Ethel"	2nd	24	female	1
+"Gaskell, Alfred"	2nd	16	male	0
+"Gavey, Lawrence"	2nd	26	male	0
+"Gilbert, William"	2nd	45	male	0
+"Giles, Edgar"	2nd	24	male	0
+"Giles, Frederick"	2nd	21	male	0
+"Giles, Ralph"	2nd	22	male	0
+"Gill, John W"	2nd	NA	male	0
+"Gillespie, William"	2nd	34	male	0
+"Givard, Hans Christensen"	2nd	30	male	0
+"Greenberg, Samuel"	2nd	50	male	0
+"Hale, Reginald"	2nd	30	male	0
+"Hamalainen, William (Anna)"	2nd	23	female	1
+"Hamalainen, Master Viljo"	2nd	1	male	1
+"Harbeck, William H"	2nd	44	male	0
+"Harper, Rev John"	2nd	28	male	0
+"Harper, Nina"	2nd	6	female	1
+"Harris, George"	2nd	30	male	1
+"Harris, Walter"	2nd	NA	male	0
+"Hart, Benjamin"	2nd	43	male	0
+"Hart, Benjamin (Esther)"	2nd	45	female	1
+"Hart, Eva Miriam"	2nd	7	female	1
+"Herman, Alice"	2nd	24	female	1
+"Herman, Kate"	2nd	24	female	1
+"Herman, Samuel"	2nd	49	male	0
+"Herman, Samuel (Jane Laver)"	2nd	48	female	1
+"Hewlett, Mary D"	2nd	NA	female	1
+"Hickman, Leonard Mark"	2nd	34	male	0
+"Hickman, Lewis"	2nd	32	male	0
+"Hickman, Stanley George"	2nd	21	male	0
+"Hiltunen, Marta"	2nd	18	female	0
+"Hocking, Elizabeth"	2nd	53	female	1
+"Hocking, George"	2nd	23	male	0
+"Hocking, Ellen (Nellie)"	2nd	21	female	1
+"Hocking, Samuel James"	2nd	NA	male	0
+"Hodges, Henry Price"	2nd	52	male	0
+"Hold, Stephen"	2nd	42	male	0
+"Hold, Stephen (Annie Margaret)"	2nd	36	female	1
+"Hood, Ambrose, Jr"	2nd	21	male	0
+"Hosono, Masafumi"	2nd	41	male	1
+"Howard, Benjamin"	2nd	NA	male	0
+"Howard, Benjamin (Ellen Truelove)"	2nd	NA	female	0
+"Hunt, George Henry"	2nd	33	male	0
+"Ilett, Bertha"	2nd	17	female	1
+Jacobsohn Sidney Samuel	2nd	NA	male	0
+"Jacobsohn, Sidney Samuel (Amy Frances Christy)"	2nd	NA	female	1
+"Jarvis, John Denzil"	2nd	NA	male	0
+"Jefferys, Clifford"	2nd	NA	male	0
+"Jefferys, Ernest"	2nd	NA	male	0
+"Jenkin, Stephen Curnow"	2nd	NA	male	0
+"Jerwan, Amin S (Marie Thuillard)"	2nd	23	female	1
+"Kantor, Sinai"	2nd	34	male	0
+"Kantor, Sinai (Miriam Sternim)"	2nd	NA	female	1
+"Karnes, J Frank (Claire Bennett)"	2nd	22	female	0
+"Keane, Daniel"	2nd	NA	male	0
+"Keane, Nora A"	2nd	NA	female	1
+"Kelly, Florence (Fannie)"	2nd	45	female	1
+"Kirkland, Rev Charles Leonard"	2nd	NA	male	0
+"Knight, Robert"	2nd	NA	male	0
+"Kvillner, Johan Henrik Johannesson"	2nd	31	male	0
+"Lahtinen, Rev William"	2nd	30	male	0
+"Lahtinen, William (Anna Sylvan)"	2nd	26	female	0
+"Lamb, John James"	2nd	NA	male	0
+"Lemore, Amelia"	2nd	34	female	1
+"LaRoche, Joseph"	2nd	26	male	0
+"LaRoche, Joseph (Juliet)"	2nd	22	female	1
+"LaRoche, Louise"	2nd	1	female	1
+"LaRoche, Simonne"	2nd	3	female	1
+"Lehmann, Bertha"	2nd	NA	female	1
+"Leitch, Jessie"	2nd	NA	female	1
+"Levy, Rene Jacques"	2nd	NA	male	0
+"Leyson, Robert William Norman"	2nd	25	male	0
+"Lingan, John"	2nd	NA	male	0
+"Louch, Charles Alexander"	2nd	48	male	0
+"Louch, Charles Alexander (Alice Adelaide)"	2nd	NA	female	1
+"Mack, Mary"	2nd	57	female	0
+"Malachard, Noel"	2nd	NA	male	0
+"Mallet, Albert"	2nd	NA	male	0
+"Mallet, Albert (Antoinette)"	2nd	NA	female	1
+"Mallet, Master Andre"	2nd	2	male	1
+"Mangiavacchi, Serafino Emilio"	2nd	NA	male	0
+"Mantvila, Rev Joseph"	2nd	27	male	0
+"Marshall, Kate Louise Phillips"	2nd	19	female	1
+"Matthews, William John"	2nd	30	male	0
+"Maybery, Frank H"	2nd	20	male	0
+"McCrae, Arthur Gordon"	2nd	45	male	0
+"McCrie, James Matthew"	2nd	NA	male	0
+"McKane, Peter D"	2nd	46	male	0
+"Mellenger, Elizabeth Anne"	2nd	41	female	1
+"Mellenger, Madeleine Violet"	2nd	13	female	1
+"Mellor, William John"	2nd	19	male	1
+"Meyer, August"	2nd	30	male	0
+"Milling, Jacob Christian"	2nd	48	male	0
+"Mitchell, Henry Michael"	2nd	71	male	0
+"Moraweck, Dr Ernest"	2nd	54	male	0
+"Morley, William"	2nd	NA	male	0
+"Mudd, Thomas C"	2nd	NA	male	0
+"Myles, Thomas Francis"	2nd	64	male	0
+"Nasser (Nasrallah), Nicholas"	2nd	32	male	0
+"Nasser (Nasrallah), Nicholas"	2nd	18	female	1
+"Navratil, Master Edmond Roger"	2nd	2	male	1
+"Navratil, Michel"	2nd	32	male	0
+"Navratil, Master Michel M"	2nd	3	male	1
+"Nesson, Israel"	2nd	26	male	0
+"Nicholls, Joseph Charles"	2nd	19	male	0
+"Norman, Robert Douglas"	2nd	NA	male	0
+"Nourney, Alfred (aka Baron von Drachstedt)"	2nd	20	male	1
+"Nye, Elizabeth Ramell"	2nd	29	female	1
+"Otter, Richard"	2nd	39	male	0
+"Oxenham, Percy Thomas"	2nd	22	male	1
+"Padro y Manent, Julian"	2nd	NA	male	1
+"Pain, Dr Alfred"	2nd	24	male	0
+"Pallas y Castello, Emilio"	2nd	NA	male	1
+"Parker, Clifford R"	2nd	28	male	0
+"Parkes, Francis (Frank)"	2nd	NA	male	0
+"Parrish, Lutie Davis"	2nd	50	female	1
+"Pengelly, Frederick"	2nd	20	male	0
+"Peruschitz, Rev Joseph M"	2nd	40	male	0
+"Phillips, Alice"	2nd	42	female	1
+"Phillips, Robert"	2nd	21	male	0
+"Pinsky, Rosa"	2nd	32	female	1
+"Ponesell, Martin"	2nd	34	male	0
+"Portaluppi, Emilio"	2nd	NA	male	1
+"Pulbaum, Frank"	2nd	NA	male	0
+"Quick, Frederick C (Jane Richards)"	2nd	33	female	1
+"Quick, Phyllis May"	2nd	2	female	1
+"Quick, Winifred Vera"	2nd	8	female	1
+"Reeves, David"	2nd	36	male	0
+"Renouf, Peter Henry"	2nd	34	male	0
+"Renouf, Peter Henry (Lillian Jefferys)"	2nd	30	female	1
+"Reynaldo, Encarnacion"	2nd	28	female	1
+"Richard, Emil"	2nd	23	male	0
+"Richards, Master George Sidney"	2nd	0.8	male	1
+"Richards, Sidney (Emily Hocking)"	2nd	25	female	1
+"Richards, Master William Rowe"	2nd	3	male	1
+"Ridsdale, Lucy"	2nd	50	female	1
+"Rogers, Harry"	2nd	NA	male	0
+"Rugg, Emily"	2nd	21	female	1
+"Sedgwick, Charles Frederick Waddington"	2nd	NA	male	0
+"Sharp, Percival"	2nd	NA	male	0
+"Shelley, William (Imanita)"	2nd	25	female	1
+"Silven, Lyyli"	2nd	18	female	1
+"Sincock, Maude"	2nd	20	female	1
+"Siukonnen, Anna"	2nd	30	female	1
+"Sjostedt, Ernst Adolf"	2nd	59	male	0
+"Slayter, Hilda Mary"	2nd	30	female	1
+"Slemen, Richard James"	2nd	35	male	0
+"Smith (Schmidt), Augustus"	2nd	22	male	0
+"Smith, Marion"	2nd	NA	female	1
+"Sobey, Hayden"	2nd	25	male	0
+"Stanton, Samuel Ward"	2nd	41	male	0
+"Stokes, Philip Joseph"	2nd	25	male	0
+"Sweet, George"	2nd	14	male	0
+"Toomey, Ellen"	2nd	50	female	1
+"Troupiansky, Moses Aaron"	2nd	22	male	0
+"Trout, William H (Jessie L)"	2nd	NA	female	1
+"Troutt, Edwina Celia"	2nd	27	female	1
+"Turpin, William John"	2nd	29	male	0
+"Turpin, William John (Dorothy Anne Wonnacott)"	2nd	27	female	0
+"Veale, James"	2nd	30	male	0
+"Waelens, Achille"	2nd	22	male	0
+"Walcroft, Nellie"	2nd	35	female	1
+"Ware, John James"	2nd	30	male	0
+"Ware, John James (Florence Louise Long)"	2nd	28	female	1
+"Ware, William J"	2nd	23	male	0
+"Watson, Ennis Hastings"	2nd	NA	male	0
+"Watt, Bertha"	2nd	12	female	1
+"Watt, James (Bessie Inglis Milne)"	2nd	40	female	1
+"Webber, Susan"	2nd	36	female	1
+"Weisz, Leopold"	2nd	28	male	0
+"Weisz, Leopold (Mathilde)"	2nd	32	female	1
+"Wells, Arthur H (Addie Trevaskis)"	2nd	29	female	1
+"Wells, Joan"	2nd	4	female	1
+"Wells, Master Ralph Lester"	2nd	2	male	1
+"West, Barbara J"	2nd	NA	female	1
+"West, Constance Mirium"	2nd	NA	female	1
+"West, Edwy Arthur"	2nd	36	male	0
+"West, Edwy Arthur (Ada Mary)"	2nd	33	female	1
+"Wheadon, Edward"	2nd	NA	male	0
+"Wheeler, Edwin"	2nd	NA	male	0
+"Wheeler, Frederick"	2nd	NA	male	0
+"Wilhelms, Charles"	2nd	32	male	1
+"Wilkinson, Elizabeth Anne"	2nd	NA	female	1
+"Williams, Charles Eugene"	2nd	NA	male	1
+"Wright, Marion"	2nd	26	female	1
+"Yrois, Henriette"	2nd	NA	female	0
+"Aldworth, Charles Augustus"	2nd	30	male	0
+"Brown, Mildred"	2nd	24	female	1
+"Pernot, Rene"	2nd	NA	male	0
+"Swane, George"	2nd	18	male	0
+"Abbing, Anthony"	3rd	42	male	0
+"Abbott, Master Eugene Joseph"	3rd	13	male	0
+"Abbott, Rossmore Edward"	3rd	16	male	0
+"Abbott, Stanton (Rosa)"	3rd	35	female	1
+"Abelseth, Anna Karen"	3rd	16	female	1
+"Abelseth, Olaus"	3rd	25	male	1
+"Abraham, Joseph (Sophie Easu)"	3rd	18	female	1
+"Abrahamsson, August"	3rd	20	male	1
+"Adahl, Mauritz Nils Martin"	3rd	30	male	0
+"Adams, John"	3rd	26	male	0
+"Ahlin, Johanna Persdotter"	3rd	40	female	0
+"Ahmed, Ali"	3rd	24	male	0
+"Aijo-Nirva, Isak"	3rd	41	male	0
+"Aks, Sam (Leah Rosen)"	3rd	18	female	1
+"Aks, Master Philip"	3rd	0.83	male	1
+"Alexander, William"	3rd	23	male	0
+"Alhomaki, Ilmari Rudolf"	3rd	20	male	0
+"Ali, William"	3rd	25	male	0
+"Allen, William Henry"	3rd	35	male	0
+"Allum, Owen George"	3rd	17	male	0
+"Andersen, Albert Karvin"	3rd	32	male	0
+"Andersen, Thor Olsvigen"	3rd	20	male	0
+"Andersson, Anders Johan"	3rd	39	male	0
+"Andersson, Anders Johan (Alfrida K Brogren)"	3rd	39	female	0
+"Andersson, Ebba Iris"	3rd	6	female	0
+"Andersson, Ellis Anna Maria"	3rd	2	female	0
+"Andersson, Erna"	3rd	17	female	1
+"Andersson, Ida Augusta Margareta"	3rd	38	female	0
+"Andersson, Ingeborg Constancia"	3rd	9	female	0
+"Andersson, Johan Samuel"	3rd	26	male	0
+"Andersson, Sigrid Elizabeth"	3rd	11	female	0
+"Andersson, Master Sigvard Harald Elias"	3rd	4	male	0
+"Andreasson, Paul Edvin"	3rd	20	male	0
+"Angheloff, Minko"	3rd	26	male	0
+"Arnold, Josef"	3rd	25	male	0
+"Arnold, Josef (Josephine Frank)"	3rd	18	female	0
+"Aronsson, Ernst Axel Algot"	3rd	24	male	0
+"Asim, Adola"	3rd	35	male	0
+"Asplund, Carl Oscar Vilhelm Gustafsson"	3rd	40	male	0
+"Asplund, Carl Oscar (Selma Augusta Johansson)"	3rd	38	female	1
+"Asplund, Master Carl Edgar"	3rd	5	male	0
+"Asplund, Master Clarence Gustaf Hugo"	3rd	9	male	0
+"Aspland, Master Edvin Rojj Felix"	3rd	3	male	1
+"Asplund, Master Filip Oscar"	3rd	13	male	0
+"Asplund, John Charles"	3rd	23	male	1
+"Asplund, Lillian Gertrud"	3rd	5	female	1
+"Assaf, Gerios"	3rd	NA	male	0
+"Assaf, Mariana"	3rd	45	female	1
+"Assam, Ali"	3rd	23	male	0
+"Attalah, Malaka"	3rd	17	female	0
+"Attala (Kalil), Solomon"	3rd	27	male	0
+"Augustsson, Albert"	3rd	23	male	0
+"Baccos, Rafoul"	3rd	20	male	0
+"Backstrom, Karl Alfred"	3rd	32	male	0
+"Backstrom, Karl Alfred (Maria Mathilda Gustafsson)"	3rd	33	female	1
+"Baclini, Eugenie"	3rd	3	female	1
+"Baclini, Helene"	3rd	NA	female	1
+"Baclini, Maria"	3rd	NA	female	1
+"Baclini, Solomon (Latifa)"	3rd	NA	female	1
+"Badman, Emily Louisa"	3rd	18	female	1
+"Badt, Mohamed"	3rd	40	male	0
+"Balkic, Cerin"	3rd	26	male	0
+"Banoura, Ayout"	3rd	15	female	1
+"Barbara, Catherine"	3rd	45	female	0
+"Barbara, Saude"	3rd	18	female	0
+"Barry, Julia"	3rd	27	female	0
+"Barton, David"	3rd	22	male	0
+"Beavan, William Thomas"	3rd	19	male	0
+"Bengtsson, John Viktor"	3rd	26	male	0
+"Berglund, Karl Ivar Sven"	3rd	22	male	0
+"Betros, Tannous"	3rd	20	male	0
+"Bing, Lee"	3rd	32	male	1
+"Birkeland, Hans"	3rd	21	male	0
+"Bjorklund, Ernst Herbert"	3rd	18	male	0
+"Bostandyeff, Guentcho"	3rd	26	male	0
+"Boulos, Master Akar"	3rd	6	male	0
+"Boulos, Hanna"	3rd	NA	male	0
+"Boulos, Joseph (Sultana)"	3rd	NA	female	0
+"Boulos, Laura"	3rd	9	female	0
+"Bourke, John"	3rd	40	male	0
+"Bourke, John (Catherine)"	3rd	32	female	0
+"Bourke, Mary"	3rd	NA	female	0
+"Bowen, David"	3rd	26	male	0
+"Bradley, Bridget Delia"	3rd	18	female	1
+"Braf, Elin Ester Maria"	3rd	20	female	0
+"Brahim, Youssef"	3rd	NA	male	0
+"Braund, Lewis Richard"	3rd	29	male	0
+"Braund, Owen Harris"	3rd	22	male	0
+"Brobek, Karl Rudolf"	3rd	22	male	0
+"Brocklebank, William Alfred"	3rd	35	male	0
+"Buckley, Daniel"	3rd	21	male	1
+"Buckley, Katherine"	3rd	20	female	0
+"Burke, Jeremiah"	3rd	19	male	0
+"Burns, Mary Delia"	3rd	18	female	0
+"Cacic, Grego"	3rd	18	male	0
+"Cacic, Luka"	3rd	38	male	0
+"Cacic, Manda"	3rd	NA	male	0
+"Cacic, Maria"	3rd	30	male	0
+"Calic, Peter"	3rd	17	male	0
+"Canavan, Mary"	3rd	21	female	0
+"Canavan, Patrick"	3rd	21	male	0
+"Cann, Ernest"	3rd	21	male	0
+"Caram (Kareem), Joseph"	3rd	NA	male	0
+"Caram (Kareem), Joseph (Maria Elias)"	3rd	NA	female	0
+"Carlsson, Carl Robert"	3rd	24	male	0
+"Carlsson, Frans Olof"	3rd	33	male	0
+"Carlsson, Julius"	3rd	33	male	0
+"Carlsson, August Sigfrid"	3rd	28	male	0
+"Carr, Helen"	3rd	16	female	1
+"Carr, Jeannie"	3rd	37	female	0
+"Carver, Alfred John"	3rd	28	male	0
+"Cassem, Nassef Belmenly"	3rd	NA	male	1
+"Celotti, Francesco"	3rd	24	male	0
+"Chartens, David"	3rd	21	male	0
+"Chebab, Emir Farres"	3rd	NA	male	0
+"Chip, Chang"	3rd	32	male	0
+"Christmann, Emil"	3rd	29	male	0
+"Chronopoulos, Apostolos"	3rd	26	male	0
+"Chronopoulos, Demetrios"	3rd	18	male	0
+"Coelho, Domingos Fernandes"	3rd	20	male	0
+"Cohen, Gurshon (Gus)"	3rd	19	male	1
+"Colbert, Patrick"	3rd	24	male	0
+"Coleff, Fotio"	3rd	24	male	0
+"Coleff, Peyo"	3rd	36	male	0
+"Conlin, Thomas Henry"	3rd	31	male	0
+"Connaghton, Michael"	3rd	31	male	0
+"Connolly, Kate"	3rd	30	female	0
+"Connolly, Kate"	3rd	22	female	1
+"Connors, Patrick"	3rd	NA	male	0
+"Cook, Jacob"	3rd	43	male	0
+"Cor, Bartol"	3rd	35	male	0
+"Cor, Ivan"	3rd	27	male	0
+"Cor, Ludovik"	3rd	19	male	0
+"Corn, Harry"	3rd	30	male	0
+"Coutts, William (Minnie)"	3rd	36	female	1
+"Coutts, Master Neville"	3rd	3	male	1
+"Coutts, Master William Leslie"	3rd	9	male	1
+"Coxon, Daniel"	3rd	59	male	0
+"Crease, Ernest James"	3rd	19	male	0
+"Cribb, John Hatfield"	3rd	44	male	0
+"Cribb, Laura Alice"	3rd	17	female	1
+"Daher, Tannous"	3rd	NA	male	0
+"Dahl, Charles Edward"	3rd	45	male	1
+"Dahlberg, Gerda Ulrika"	3rd	22	female	0
+"Dakic, Branko"	3rd	19	male	0
+"Daly, Eugene"	3rd	29	male	1
+"Daly, Marcella"	3rd	30	female	1
+"Danbom, Ernst Gilbert"	3rd	34	male	0
+"Danbom, Ernst Gilbert (Anna Sigrid Maria Brogren)"	3rd	28	female	0
+"Danbom, Master Gilbert Sigvard Emanuel"	3rd	0.33	male	0
+"Danoff, Yoto"	3rd	27	male	0
+"Dantchoff, Khristo"	3rd	25	male	0
+"Davies, Alfred"	3rd	24	male	0
+"Davies, Evan"	3rd	22	male	0
+"Davies, John"	3rd	21	male	0
+"Davies, Joseph"	3rd	17	male	0
+"Davison, Thomas Henry"	3rd	NA	male	0
+"Davison, Thomas Henry (Mary Finck)"	3rd	NA	female	1
+"Dean, Bertram"	3rd	26	male	0
+"Dean, Bertram (Eva)"	3rd	33	female	1
+"Dean, Master Bertram Vere"	3rd	1	male	1
+"Dean, Elizabeth Gladys (Millvena)"	3rd	0.17	female	1
+"Delalic, Regyo"	3rd	25	male	0
+"De Messemaeker, William Joseph"	3rd	36	male	1
+"De Messemaeker, William Joseph (Anna)"	3rd	36	female	1
+"De Mulder, Theo"	3rd	30	male	1
+"Denkoff, Mito"	3rd	NA	male	0
+"Dennis, Samuel"	3rd	23	male	0
+"Dennis, William"	3rd	26	male	0
+"Devaney, Margaret"	3rd	19	female	1
+"Dewan, Frank"	3rd	65	male	0
+"Dibo, Elias"	3rd	NA	male	0
+"Dimic, Jovan"	3rd	42	male	0
+"Dintcheff, Valtcho"	3rd	43	male	0
+"Dooley, Patrick"	3rd	32	male	0
+"Dorkings, Edward Arthur"	3rd	19	male	1
+"Dowdell, Elizabeth"	3rd	30	female	1
+"Doyle, Elizabeth"	3rd	24	female	0
+"Drapkin, Jennie"	3rd	23	female	1
+"Drazonovic, Josef"	3rd	NA	male	0
+"Driscoll, Bridget"	3rd	24	female	1
+"Duquemin, Joseph"	3rd	24	male	1
+"Dyker, Adolf Fredrik"	3rd	23	male	0
+"Dyker, Adolf Fredrik (Anna Elizabeth Judith Andersson)"	3rd	22	female	1
+"Econovic, Joso"	3rd	NA	male	0
+"Edvardsson, Gustaf Hjalmar"	3rd	18	male	0
+"Eklund, Hans Linus"	3rd	16	male	0
+"Ekstrom, Johan"	3rd	45	male	0
+"Elias, Elias"	3rd	NA	male	0
+"Elias, John"	3rd	NA	male	0
+"Elias, Joseph"	3rd	NA	male	0
+"Elsbury, James"	3rd	47	male	0
+"Emanuel, Virginia Ethel"	3rd	5	female	1
+"Emmeth, Thomas"	3rd	NA	male	0
+"Everett, Thomas James"	3rd	NA	male	0
+"Farrell, James"	3rd	NA	male	0
+"Finoli, Luigi"	3rd	NA	male	1
+"Fischer, Eberhard Telander"	3rd	NA	male	0
+"Flynn, James"	3rd	NA	male	0
+"Flynn, John"	3rd	NA	male	0
+"Foley, Joseph"	3rd	NA	male	0
+"Foley, William"	3rd	NA	male	0
+"Foo, Choong"	3rd	NA	male	1
+"Ford, Arthur"	3rd	NA	male	0
+"Ford, Doolina Margaret"	3rd	21	female	0
+"Ford, Edward Watson"	3rd	18	male	0
+"Ford, Maggie"	3rd	9	female	0
+"Ford, Edward (Margaret Ann)"	3rd	48	female	0
+"Ford, Neil Watson"	3rd	16	male	0
+"Fox, Patrick"	3rd	NA	male	0
+"Franklin, Charles"	3rd	NA	male	0
+"Gallagher, Martin"	3rd	25	male	0
+"Garfirth, John"	3rd	NA	male	0
+"Georges, Shahini Weappi"	3rd	38	female	1
+"Gilinski, Leslie"	3rd	22	male	0
+"Gilnagh, Katie"	3rd	16	female	1
+"Glynn, Mary Agatha"	3rd	NA	female	1
+"Goldsmith, Frank John"	3rd	33	male	0
+"Goldsmith, Frank John (Emily A Brown)"	3rd	NA	female	1
+"Goldsmith, Master Frank John William"	3rd	9	male	1
+"Goldsmith, Nathan"	3rd	41	male	0
+"Goncalves, Manuel Estanslas"	3rd	38	male	0
+"Goodwin, Frederick"	3rd	40	male	0
+"Goodwin, Frederick (Augusta)"	3rd	43	female	0
+"Goodwin, Charles E"	3rd	14	male	0
+"Goodwin, Lillian A"	3rd	16	female	0
+"Goodwin, Master Harold V"	3rd	9	male	0
+"Goodwin, Jessie A"	3rd	10	female	0
+"Goodwin, Master Sidney L"	3rd	6	male	0
+"Goodwin, Master William F"	3rd	11	male	0
+"Green, George"	3rd	40	male	0
+"Gronnestad, Daniel Danielsen"	3rd	32	male	0
+"Guest, Robert"	3rd	NA	male	0
+"Gustafsson, Alfred Ossian"	3rd	20	male	0
+"Gustafsson, Anders Vilhelm"	3rd	37	male	0
+"Gustafsson, Johan Birger"	3rd	28	male	0
+"Gustafsson, Karl Gideon"	3rd	19	male	0
+"Haas, Aloisia"	3rd	24	female	0
+"Hagardon, Kate"	3rd	17	female	0
+"Hagland, Ingvald Olsen"	3rd	NA	male	0
+"Hagland, Konrad Mathias Reiersen"	3rd	NA	male	0
+"Hakkarainen, Pekko Pietari"	3rd	28	male	0
+"Hakkarainen, Pekko Pietari"	3rd	24	female	1
+"Hampe, Leon"	3rd	20	male	0
+"Hansen, Claus Peter"	3rd	41	male	0
+"Hansen, Claus Peter"	3rd	45	female	1
+"Hansen, Henrik Juul"	3rd	26	male	0
+"Hansen, Henry Damsgaard"	3rd	21	male	0
+"Harknett, Alice"	3rd	NA	female	0
+"Harmer, Abraham"	3rd	NA	male	0
+"Hart, Henry"	3rd	NA	male	0
+"Hassan, M Houssein"	3rd	NA	male	0
+"Healy, Nora"	3rd	NA	female	0
+"Hedman, Oscar"	3rd	27	male	1
+"Hee, Ling"	3rd	NA	male	0
+"Hegarty, Nora"	3rd	18	female	0
+"Heikkinen, Laina"	3rd	26	female	1
+"Heininen, Wendla Maria"	3rd	23	female	0
+"Hellstrom, Hilda Maria"	3rd	22	female	1
+"Hemming, Nora"	3rd	NA	female	0
+"Hendekovic, Ignaz"	3rd	NA	male	0
+"Henery, Delia"	3rd	NA	female	0
+"Henriksson, Jenny Lovisa"	3rd	28	female	0
+"Hirvonen, Alexander"	3rd	22	female	1
+"Hirvonen, Hildur E"	3rd	2	female	0
+"Holm, John Frederik Alexander"	3rd	43	male	0
+"Holthen, Johan Martin"	3rd	NA	male	0
+"Honkanen, Eluna"	3rd	27	female	1
+"Horgan, John"	3rd	NA	male	0
+"Howard, May"	3rd	NA	female	1
+"Humblin, Adolf Mathias Nicolai Olsen"	3rd	42	male	0
+"Hyman, Abraham"	3rd	NA	male	1
+"Ilieff, Ylio"	3rd	NA	male	0
+"Ilmakangas, Ida Livija"	3rd	27	female	0
+"Ilmakangas, Pieta Sofia"	3rd	25	female	0
+"Ivanoff, Konio"	3rd	NA	male	0
+"Jansen, Carl Olof"	3rd	27	male	1
+"Jardin, Jose Netto"	3rd	NA	male	0
+"Jensen, Carla Christine"	3rd	19	female	1
+"Jensen, Hans Peder"	3rd	20	male	0
+"Jensen, Niels Peder"	3rd	48	male	0
+"Jensen, Svend Lauritz"	3rd	17	male	0
+"Jermyn, Annie"	3rd	NA	female	1
+"Johannesen-Bratthammer, Bernt"	3rd	NA	male	0
+"Johanson, Jakob Alfred"	3rd	34	male	0
+"Johansson, Erik"	3rd	22	male	0
+"Johansson, Gustaff Joel"	3rd	33	male	0
+"Johansson, Karl Johan"	3rd	32	male	1
+"Johansson, Nils"	3rd	29	male	0
+"Johansson, Oscar L"	3rd	26	male	1
+"Johnson, Alfred"	3rd	49	male	0
+"Johnson, Eleanor Ileen"	3rd	1	female	1
+"Johnson, Malkolm Joackim"	3rd	33	male	0
+"Johnson, Master Harold Theodor"	3rd	4	male	1
+"Johnson, Oscar W"	3rd	24	female	0
+"Johnson, William Cahoone Jr"	3rd	19	male	0
+"Johnston, Andrew G"	3rd	NA	male	0
+"Johnston, Andrew G"	3rd	NA	female	0
+"Johnston, Catherine H"	3rd	NA	female	0
+"Johnston, Master William A"	3rd	NA	male	0
+"Jonkoff, Lazor"	3rd	NA	male	0
+"Jonsson, Carl"	3rd	32	male	1
+"Jonsson, Nils Hilding"	3rd	27	male	0
+"Jussila, Aina Maria"	3rd	21	female	0
+"Jussila, Erik"	3rd	32	male	1
+"Jussila, Katriina"	3rd	20	female	0
+"Kallio, Nikolai Erland"	3rd	17	male	0
+"Kalvig, Johannes K Halverson"	3rd	21	male	0
+"Karajic, Milan"	3rd	30	male	0
+"Karlsson, Einar Gervasius"	3rd	21	male	1
+"Karlsson, Julius Konrad Eugen"	3rd	23	male	0
+"Karlsson, Nils August"	3rd	22	male	0
+"Karun, Anna Mary"	3rd	4	female	1
+"Karun, Franz"	3rd	39	male	0
+"Kassem, Fared"	3rd	NA	male	0
+"Keane, Andrew"	3rd	20	male	0
+"Keefe, Arthur"	3rd	NA	male	0
+"Kekic, Tido"	3rd	NA	male	0
+"Kelly, Anna Kate"	3rd	21	female	1
+"Kelly, James"	3rd	44	male	0
+"Kelly, James"	3rd	42	male	0
+"Kelly, Mary"	3rd	21	female	1
+"Kennedy, John"	3rd	24	male	0
+"Khalil, Betros"	3rd	NA	male	0
+"Khalil, Betros"	3rd	NA	female	0
+"Khalil, Saad"	3rd	NA	male	0
+"Kiernan, John"	3rd	25	male	0
+"Kiernan, Philip"	3rd	22	male	0
+"Kilgannon, Thomas"	3rd	22	male	0
+"Kink, Anton"	3rd	39	male	1
+"Kink, Anton (Louise Heilmann)"	3rd	26	female	0
+"Kink, Louise Gretchen"	3rd	4	female	1
+"Kink, Maria"	3rd	22	female	0
+"Kink, Vincenz"	3rd	26	male	0
+"Klasen, Gertrud Emilia"	3rd	1.5	female	0
+"Klasen, Hulda Kristina"	3rd	36	female	0
+"Klasen, Klas Albin"	3rd	18	male	0
+"Kraeff, Theodor"	3rd	NA	male	0
+"Krekorian, Neshan"	3rd	25	male	1
+"Lahowd, Sarkis"	3rd	NA	male	0
+"Laitinen, Kritina Sofia"	3rd	37	female	0
+"Laleff, Kristo"	3rd	NA	male	0
+"Lam, Ali"	3rd	NA	male	1
+"Lam, Len"	3rd	NA	male	0
+"Landegren, Aurora Adelia"	3rd	22	female	1
+"Lane, Patrick"	3rd	20	male	0
+"Lang, Fang"	3rd	26	male	1
+"Larsson, August Viktor"	3rd	29	male	0
+"Larsson, Bengt Edvin"	3rd	29	male	0
+"Larsson-Rondberg, Edvard"	3rd	22	male	0
+"Leeni, Fahim"	3rd	NA	male	1
+"Lefebre, Frank"	3rd	NA	female	0
+"Lefebre, Master Henry"	3rd	NA	male	0
+"Lefebre, Ida"	3rd	NA	female	0
+"Lefebre, Jeannie"	3rd	NA	female	0
+"Lefebre, Mathilde"	3rd	NA	female	0
+"Leinonen, Antti Gustaf"	3rd	32	male	0
+"Lemberopolous, Peter L"	3rd	NA	male	0
+"Lemom, Denis"	3rd	21	male	0
+"Lemon, Mary"	3rd	21	female	0
+"Leonard, Lionel"	3rd	36	male	0
+"Lester, James"	3rd	39	male	0
+"Lindahl, Agda V"	3rd	25	female	0
+"Lindblom, Augusta Charlotta"	3rd	45	female	0
+"Lindell, Edvard Bengtsson"	3rd	36	male	0
+"Lindell, Edvard Bengtsson"	3rd	30	female	0
+"Lindqvist, Eino William"	3rd	20	male	1
+"Linehan, Michael"	3rd	NA	male	0
+"Ling, Lee"	3rd	NA	male	0
+"Lithman, Simon"	3rd	NA	male	0
+"Lobb, William Arthur"	3rd	NA	male	0
+"Lobb, William Arthur"	3rd	NA	female	0
+"Lockyer, Edward"	3rd	NA	male	0
+"Lovell, John"	3rd	NA	male	0
+"Lulich, Nicola"	3rd	NA	male	1
+"Lundahl, Johan"	3rd	NA	male	0
+"Lundin, Olga Elida"	3rd	NA	female	1
+"Lundstrom, Thure Edvin"	3rd	NA	male	0
+"Lyntakoff, Stanko"	3rd	NA	male	0
+"MacKay, George William"	3rd	NA	male	0
+"Madigan, Margaret"	3rd	NA	female	1
+"Madsen, Frithiof"	3rd	NA	male	0
+"Maenpaa, Matti Alexanteri"	3rd	NA	male	0
+"Mahon, Delia"	3rd	NA	female	0
+"Maisner, Simon"	3rd	NA	male	0
+"Makinen, Kalle Edvard"	3rd	NA	male	0
+"Mamee, Hanna"	3rd	NA	male	1
+"Mangan, Mary"	3rd	NA	female	0
+"Mannion, Margareth"	3rd	NA	female	1
+"Mansour, Hanna"	3rd	NA	male	0
+"Mardirosian, Sarkis"	3rd	NA	male	0
+"Marinko, Dmitri"	3rd	NA	male	0
+"Markim, Johann"	3rd	NA	male	0
+"Markoff, Marin"	3rd	NA	male	0
+"Masselmany, Fatima"	3rd	NA	female	1
+"Matinoff, Nicola"	3rd	NA	male	0
+"McCarthy, Katie"	3rd	NA	female	1
+"McCormack, Thomas J"	3rd	NA	male	0
+"McCoy, Agnes"	3rd	NA	female	0
+"McCoy, Alice"	3rd	NA	female	0
+"McCoy, Bernard"	3rd	NA	male	0
+"McDermott, Delia"	3rd	NA	female	0
+"McElroy, Michael"	3rd	NA	male	0
+"McGovern, Hugh"	3rd	NA	female	1
+"McGowan, Anna"	3rd	NA	female	0
+"McGowan, Katherine"	3rd	NA	female	0
+"McMahon, Martin"	3rd	NA	male	0
+"McNamee, Neal"	3rd	NA	male	0
+"McNamee, Neal"	3rd	NA	female	0
+"Meanwell, Marion Ogden"	3rd	NA	female	0
+"Mechen, John"	3rd	NA	male	0
+"Meek, Thomas"	3rd	NA	female	0
+"Melkebuk, Philemon"	3rd	23	female	0
+"Meo, Alfonso"	3rd	NA	male	0
+"Midtsjo, Karl Albert"	3rd	NA	male	1
+"Mihoff, Stoytcho"	3rd	NA	male	0
+"Miles, Frank"	3rd	NA	male	0
+"Mineff, Ivan"	3rd	NA	male	0
+"Minkoff, Lazar"	3rd	NA	male	0
+"Mirko, Dika"	3rd	NA	male	0
+"Mitkoff, Mito"	3rd	NA	male	0
+"Mocklare, Helen Mary"	3rd	NA	female	1
+"Moen, Sigurd H"	3rd	NA	male	0
+"Moor, Beila"	3rd	NA	female	1
+"Moor, Master Meier"	3rd	NA	male	0
+"Moore, Leonard Charles"	3rd	NA	male	0
+"Moran, Bertha"	3rd	NA	female	1
+"Moran, Daniel J"	3rd	NA	male	0
+"Moran, James"	3rd	NA	male	0
+"Morley, Henry Samuel"	3rd	NA	male	0
+"Morrow, Thomas Rowan"	3rd	NA	male	0
+"Moubarek (Borak), Hanna (John)"	3rd	NA	male	1
+"Moubarek, George"	3rd	NA	female	0
+"Moubarek, Master George"	3rd	NA	male	0
+"Moubarek, Master William George"	3rd	NA	male	0
+"Moss, Albert Johan"	3rd	NA	male	0
+"Moussa, Mantoura Baloics"	3rd	NA	female	0
+"Moutal, Rahamin"	3rd	NA	male	0
+"Mullins, Katie"	3rd	NA	female	1
+"Mulvihill, Bertha E"	3rd	NA	female	0
+"Murdlin, Joseph"	3rd	NA	male	0
+"Murphy, Katherine"	3rd	NA	female	0
+"Murphy, Margaret"	3rd	NA	female	0
+"Murphy, Nora"	3rd	NA	female	0
+"Myhrman, Pehr Fabian Oliver Malkolm"	3rd	NA	male	0
+"Nackid, Maria"	3rd	NA	female	1
+"Nackid, Said"	3rd	NA	male	0
+"Nackid, Said"	3rd	NA	female	0
+"Nahill, Toufik"	3rd	NA	male	0
+"Naidenoff, Penko"	3rd	NA	male	0
+"Nancarrow, W H"	3rd	NA	male	0
+"Niklasen, Sander"	3rd	NA	male	0
+"Nosworthy, Richard C"	3rd	NA	male	0
+"Najib, Adele Kiamie"	3rd	NA	female	1
+"Nancarrow, William Henry"	3rd	NA	male	0
+"Nankoff, Minko"	3rd	NA	male	0
+"Nasr, Mustafa"	3rd	NA	male	0
+"Nassr, Saade Jean"	3rd	NA	male	0
+"Naughton, Hannah"	3rd	NA	female	0
+"Nemaugh, Robert"	3rd	NA	male	0
+"Nenkoff, Christo"	3rd	NA	male	0
+"Nicola-Yarred, Jamila"	3rd	NA	female	1
+"Nicola-Yarred, Master Elias"	3rd	NA	male	0
+"Nieminen, Manta Josefina"	3rd	NA	female	0
+"Niklasson, Samuel"	3rd	NA	male	0
+"Nilsson, August Ferdinand"	3rd	NA	male	0
+"Nilsson, Berta Olivia"	3rd	NA	female	1
+"Nilsson, Helmina Josefina"	3rd	NA	female	0
+"Niskanen, Johan"	3rd	NA	male	0
+"Nosworthy, Richard Cater"	3rd	NA	male	0
+"Novel, Mansouer"	3rd	NA	male	1
+"Nysten, Anna"	3rd	NA	female	0
+"Nysveen, Johan H"	3rd	NA	male	0
+"O'Brien, Denis"	3rd	NA	male	0
+"O'Brien, Thomas"	3rd	NA	male	0
+"O'Brien, Thomas"	3rd	NA	female	1
+"O'Connell, Patrick D"	3rd	NA	male	0
+"O'Connor, Maurice"	3rd	NA	male	0
+"O'Connor, Patrick"	3rd	NA	male	0
+"Odahl, Nils Martin"	3rd	NA	male	1
+"O'Dwyer, Nellie"	3rd	NA	female	0
+"Ohman, Velin"	3rd	NA	female	0
+"O'Keefe, Patrick"	3rd	NA	male	0
+"OLeary, Norah"	3rd	NA	female	0
+"Olsen, Master Arthur"	3rd	NA	male	0
+"Olsen, Charlie (Carl)"	3rd	NA	male	0
+"Olsen, Henry Margido"	3rd	NA	male	0
+"Olsen, Ole M"	3rd	NA	male	0
+"Olsson, Elida"	3rd	NA	female	0
+"Olsson, Nils Johan"	3rd	NA	male	0
+"Olsson, Oscar Johansson"	3rd	NA	male	1
+"O'Neill, Bridget"	3rd	NA	female	0
+"Oreskovic, Jeko"	3rd	NA	male	0
+"Oreskovic, Luka"	3rd	NA	male	0
+"Oreskovic, Maria"	3rd	NA	male	0
+"Osen, Olof Elon"	3rd	NA	male	0
+"Osman, Maria"	3rd	NA	female	1
+"O'Sullivan, Bridget"	3rd	NA	female	0
+"Panula, Ernesti Arvid"	3rd	NA	male	0
+"Panula, Jaako Arnold"	3rd	NA	male	0
+"Panula, Master Juha Niilo"	3rd	NA	male	0
+"Panula, John"	3rd	NA	female	0
+"Panula, Master Urho Abraham"	3rd	NA	male	0
+"Panula, Master William"	3rd	NA	male	0
+"Pasic, Jakob"	3rd	NA	male	0
+"Paulner, Uscher"	3rd	NA	male	0
+"Paulsson, Master Gosta Leonard"	3rd	NA	male	0
+"Paulsson, Nils"	3rd	NA	female	0
+"Paulsson, Master Paul Folke"	3rd	NA	male	0
+"Paulsson, Stina Viola"	3rd	NA	female	0
+"Paulsson, Torborg Danira"	3rd	NA	female	0
+"Pavlovic, Stefo"	3rd	NA	male	0
+"Peacock, Master Alfred Edward"	3rd	NA	male	0
+"Peacock, Benjamin"	3rd	NA	female	0
+"Peacock, Treasteall"	3rd	NA	female	0
+"Pearce, Ernest"	3rd	NA	male	0
+"Pecruic, Mate"	3rd	NA	male	0
+"Pecruic, Tome"	3rd	NA	male	0
+"Pedersen, Olaf"	3rd	NA	male	0
+"Peduzzi, Joseph"	3rd	NA	male	0
+"Pekoniemi, Edvard"	3rd	NA	male	1
+"Peltomaki, Nikolai Johannes"	3rd	NA	male	0
+"Perkin, John Henry"	3rd	NA	male	0
+"Persson, Ernst Ulrik"	3rd	NA	male	1
+"Peter (Joseph), Mary"	3rd	NA	female	0
+"Peter (Joseph), Catherine"	3rd	NA	female	0
+"Peter (Joseph), Master Michael J"	3rd	NA	male	0
+"Peters, Katie"	3rd	NA	female	0
+"Petersen, Marius"	3rd	NA	male	0
+"Petranec, Matilda"	3rd	NA	female	0
+"Petroff, Nedeca"	3rd	NA	male	0
+"Petroff, Pentcho"	3rd	NA	male	0
+"Pettersson, Ellen Natalia"	3rd	NA	female	0
+"Peterson, Johan Emil"	3rd	NA	male	0
+"Pickard (Trembisky), Berk"	3rd	NA	male	1
+"Plotcharsky, Vasil"	3rd	NA	male	0
+"Potchett, George"	3rd	NA	male	0
+"Radeff, Alexander"	3rd	NA	male	0
+"Raibid, Razi"	3rd	NA	male	0
+"Reed, James George"	3rd	NA	male	0
+"Reynolds, Harold"	3rd	NA	male	0
+"Rice, Master Albert"	3rd	NA	male	0
+"Rice, Master Arthur"	3rd	NA	male	0
+"Rice, Master George"	3rd	NA	male	0
+"Rice, Master Eric"	3rd	NA	male	0
+"Rice, Master Eugene"	3rd	NA	male	0
+"Rice, William"	3rd	NA	female	0
+"Riihiivouri, Sanni"	3rd	NA	female	0
+"Rintamaki, Matti"	3rd	NA	male	0
+"Riordan, Hannah"	3rd	NA	female	1
+"Risien, Samuel"	3rd	NA	male	0
+"Risien, Samuel"	3rd	NA	female	0
+"Robins, Alexander A"	3rd	NA	male	0
+"Robins, Alexander A"	3rd	NA	female	0
+"Rommetvedt, Karl Kristian Knut"	3rd	NA	male	0
+"Rogers, William John"	3rd	NA	male	0
+"Rosblom, Viktor"	3rd	NA	female	0
+"Rosblom, Salli Helena"	3rd	NA	female	0
+"Rosblom, Viktor Rickard"	3rd	NA	male	0
+"Roth, Sarah"	3rd	NA	female	1
+"Rouse, Richard Henry"	3rd	NA	male	0
+"Rush, Alfred George John"	3rd	NA	male	0
+"Ryan, Edward Ryan"	3rd	NA	male	1
+"Ryan, Patrick"	3rd	NA	male	0
+"Saad, Amin"	3rd	NA	male	0
+"Saad, Khalil"	3rd	NA	male	1
+"Sadlier, Matthew"	3rd	NA	male	0
+"Sadowitz, Harry"	3rd	NA	male	0
+"Sage, Ada"	3rd	NA	female	0
+"Sage, Constance"	3rd	NA	female	0
+"Sage, Dorothy"	3rd	NA	female	0
+"Sage, Douglas"	3rd	NA	male	0
+"Sage, Frederick"	3rd	NA	male	0
+"Sage, George"	3rd	NA	male	0
+"Sage, John"	3rd	NA	male	0
+"Sage, John"	3rd	NA	female	0
+"Sage, Stella"	3rd	NA	female	0
+"Sage, Thomas (child)"	3rd	NA	male	0
+"Sage, Master William"	3rd	NA	male	0
+"Salander, Karl Johan"	3rd	21	male	0
+"Salkjelsvik, Anna"	3rd	NA	female	1
+"Salonen, Johan Werner"	3rd	NA	male	0
+"Samaan, Elias"	3rd	NA	male	0
+"Samaan, Hanna"	3rd	NA	male	0
+"Samaan, Youssef"	3rd	NA	male	0
+"Sandstrom, Hjalmar"	3rd	NA	female	1
+"Sandstrom, Beatrice Irene"	3rd	1.5	female	0
+"Sandstrom, Marguerite Rut"	3rd	NA	female	0
+"Sather, Simon Sivertsen"	3rd	NA	male	0
+"Saundercock, William Henry"	3rd	NA	male	0
+"Sawyer, Frederick"	3rd	NA	male	0
+"Scanlan, James"	3rd	NA	male	0
+"Sdycoff, Todor"	3rd	NA	male	0
+"Seman Master Betros"	3rd	NA	male	0
+"Serota, Maurice"	3rd	NA	male	0
+"Shaughnesay, Patrick"	3rd	NA	male	0
+"Shedid (Sitik), Daher (Docart)"	3rd	NA	male	0
+"Sheerlinck, Jean"	3rd	NA	male	1
+"Shellard, Frederick B"	3rd	NA	male	0
+"Shine, Ellen"	3rd	NA	female	1
+"Shorney, Charles"	3rd	NA	male	0
+"Simmons, John"	3rd	NA	male	0
+"Sirayanian, Arsun"	3rd	NA	male	0
+"Sivic, Husen"	3rd	NA	male	0
+"Sivola, Antti"	3rd	NA	male	0
+"Sjoblom, Anna Sofia"	3rd	NA	female	1
+"Sholt, Peter Andreas Lauritz Andersen"	3rd	NA	male	0
+"Skinner, Henry John"	3rd	NA	male	0
+"Skoog, Master Harald"	3rd	NA	male	0
+"Skoog, Master Karl"	3rd	NA	male	0
+"Skoog, Mabel"	3rd	NA	female	0
+"Skoog, Margit"	3rd	NA	female	0
+"Skoog, William"	3rd	NA	male	0
+"Skoog, William"	3rd	NA	female	0
+"Slabenoff, Petco"	3rd	NA	male	0
+"Slocovski, Selman"	3rd	NA	male	0
+"Smiljanovic, Mile"	3rd	NA	male	0
+"Smyth, Julia"	3rd	NA	female	1
+"Solvang, Lena Jacobsen"	3rd	NA	female	0
+"Somerton, Francis William"	3rd	NA	male	0
+"Sop, Jules"	3rd	NA	male	1
+"Spector, Woolf"	3rd	NA	male	0
+"Staneff, Ivan"	3rd	NA	male	0
+"Stankovic, Jovan"	3rd	NA	male	0
+"Stanley, Amy Zilla Elsie"	3rd	NA	female	1
+"Stanley, Edward Roland"	3rd	NA	male	0
+"Storey, Thomas"	3rd	NA	male	0
+"Stoyehoff, Ilia"	3rd	NA	male	0
+"Strandberg, Ida Sofia"	3rd	NA	female	0
+"Stranden, Juho"	3rd	NA	male	1
+"Strilic, Ivan"	3rd	NA	male	0
+"Strom, Wilhelm"	3rd	NA	female	0
+"Strom, Telma (Selma) Matilda"	3rd	NA	female	0
+"Sunderland, Victor Francis"	3rd	NA	male	1
+"Sundman, Johan Julian"	3rd	NA	male	0
+"Sutehall, Henry, Jr"	3rd	NA	male	0
+"Svensson, Johan"	3rd	NA	male	0
+"Svensson, Johan Cervin"	3rd	NA	male	1
+"Svensson, Olof"	3rd	NA	male	0
+"Tannous, Thomas"	3rd	NA	male	0
+"Tenglin, Gunnar Isidor"	3rd	NA	male	1
+"Theobald, Thomas Leonard"	3rd	NA	male	0
+"Thomas, Alexander"	3rd	NA	female	1
+"Thomas, Master Assad Alexander"	3rd	NA	male	0
+"Thomas, Charles"	3rd	NA	male	0
+"Thomas, John, Jr"	3rd	NA	male	0
+"Thomas, John (? 1st/2nd class)"	3rd	NA	male	0
+"Thomson, Alexander"	3rd	NA	male	0
+"Thorneycroft, Percival"	3rd	NA	male	0
+"Thorneycroft, Percival"	3rd	NA	female	1
+"Tikkanen, Juho"	3rd	NA	male	0
+"Tobin, Roger"	3rd	NA	male	0
+"Todoroff, Lalio"	3rd	NA	male	0
+"Toerber, Ernest William"	3rd	NA	male	0
+"Tomlin, Ernest Portage"	3rd	NA	male	0
+"Torfa, Assad"	3rd	NA	male	0
+"Tornquist, William Henry"	3rd	25	male	1
+"Touma (Thomas), Darwin"	3rd	NA	female	0
+"Touma (Thomas), Master George"	3rd	NA	male	0
+"Touma (Thomas), Hannah"	3rd	NA	female	0
+"Turcin, Stefan"	3rd	NA	male	0
+"Turja, Anna Sofia"	3rd	18	female	1
+"Turkula, Hedvig"	3rd	63	female	1
+"Uzelas, Joso"	3rd	NA	male	0
+"Van Billiard, Austin Blyler"	3rd	NA	male	0
+"Van Billiard, Master James William"	3rd	NA	male	0
+"Van Billiard, Master Walter John"	3rd	NA	male	0
+"Van der Planke, Augusta"	3rd	18	female	0
+"Van der Planke, Jules"	3rd	31	male	0
+"Van der Planke, Jules"	3rd	31	female	0
+"Van der Planke, Leon"	3rd	15	male	0
+"Van der Steen, Leo Peter"	3rd	28	male	0
+"Van de Velde, John Joseph"	3rd	36	male	0
+"Vandewalle, Nestor Cyriel"	3rd	28	male	0
+"Van Impe, Catharine"	3rd	10	female	0
+"Van Impe, Jean Baptiste"	3rd	36	male	0
+"Van Impe, Jean Baptiste"	3rd	30	female	0
+"Vartunian, David"	3rd	22	male	1
+"Vassilios, Catavelas"	3rd	NA	male	0
+"Vendel, Olof Wdvin"	3rd	29	male	0
+"Vereruysse, Victor"	3rd	47	male	0
+"Vestrom, Hulda Amanda Adolfina"	3rd	14	female	0
+"Vonk, Jenko"	3rd	22	male	0
+"Ware, Frederick"	3rd	NA	male	0
+"Warren, Charles William"	3rd	NA	male	0
+"Wazli, Yousif"	3rd	NA	male	0
+"Webber, James"	3rd	NA	male	0
+"Wennerstrom, August Edvard"	3rd	NA	male	1
+"Wenzel, Linhart"	3rd	NA	male	0
+"Widegren, Charles Peter"	3rd	51	male	0
+"Wiklund, Jacob Alfred"	3rd	18	male	0
+"Wilkes, Ellen"	3rd	45	female	1
+"Willer, Aaron"	3rd	NA	male	0
+"Willey, Edward"	3rd	NA	male	0
+"Williams, Howard Hugh"	3rd	NA	male	0
+"Williams, Leslie"	3rd	28	male	0
+"Windelov, Einar"	3rd	21	male	0
+"Wirz, Albert"	3rd	27	male	0
+"Wiseman, Phillippe"	3rd	NA	male	0
+"Wittevrongel, Camiel"	3rd	36	male	0
+"Yalsevac, Ivan"	3rd	NA	male	1
+"Yasbeck, Antoni"	3rd	27	male	0
+"Yasbeck, Antoni"	3rd	15	female	1
+"Youssef, Gerios"	3rd	NA	male	0
+"Zabour, Hileni"	3rd	NA	female	0
+"Zabour, Tamini"	3rd	NA	female	0
+"Zakarian, Artun"	3rd	27	male	0
+"Zakarian, Maprieder"	3rd	26	male	0
+"Zenni, Philip"	3rd	22	male	0
+"Lievens, Rene"	3rd	24	male	0
+"Zimmerman, Leo"	3rd	29	male	0

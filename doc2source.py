@@ -76,12 +76,11 @@ def main():
         for parser in loader_parsers.get_parsers_names():
             print "* %s" % parser
 
-    if args.list_generators:
+    elif args.list_generators:
         for generator in loader_generators.get_generators_names():
             print "* %s" % generator
 
-    # be sure that everythig is passed to generate "source"
-    if args.parser_name is None \
+    elif args.parser_name is None \
     or args.generator_name is None \
     or args.input_filename is None:
         argument_parser.print_help()
