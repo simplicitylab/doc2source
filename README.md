@@ -1,8 +1,10 @@
 # Doc2Source
 
-Tool to convert from ANYTHING to ANYTHING. 
+Tool to convert from ANYTHING to ANYTHING.  
 
-You can easily create your own parsers (using for example [pyparsing](http://pyparsing.wikispaces.com), [pandas](http://pandas.pydata.org), ....) and generators.
+Easily create your own parsers (using for example [pyparsing](http://pyparsing.wikispaces.com), [pandas](http://pandas.pydata.org), ....) and generators.
+
+Demo video: https://vimeo.com/193864735
 
 ### Usage
 
